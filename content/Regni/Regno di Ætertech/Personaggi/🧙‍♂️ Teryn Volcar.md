@@ -1,0 +1,1 @@
+(pioniere mago-tecnologo)

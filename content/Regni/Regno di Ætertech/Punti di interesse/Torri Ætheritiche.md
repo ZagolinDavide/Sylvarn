@@ -1,0 +1,4 @@
+Torri studiate e costruite da [[]], che utilizzando tutti i prodotti di [[Yggdrasill]] per fare in modo che queste strutture assorbissero la trama e la distruibuiscano a tutte le strutture alimentate dai cristalli e da questo particolare strumento.
+Per tutto il regno di [[🏰 Æthertech]] si trovano queste strutture, che possono avere differenti forme e con capacità variabili. 
+
+Nella capitale [[🏙️ Ærital]] le torri presenti sono le più antiche, e sono anche quelle con un gusto estetico più curato e particolare, per questo motivo sono diventate attrazione turistica. Differentemente da queste prime torri, man mano che si procede nella storia hanno perso molti delle loro particolarità artistiche, lasciando spazio a strutture più semplici, pulite e asettiche.
