@@ -1,5 +1,8 @@
 Ambientazione custom D&D
 
+# Scarica pacchetti
+npm i
+
 # Installa Quartz senza global, usa npx
 npx quartz init
 

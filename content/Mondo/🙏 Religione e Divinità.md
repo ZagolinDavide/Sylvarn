@@ -43,15 +43,14 @@
 - **Ideali**: viaggio, cambiamento, imprevedibilità.
 - **Culto**: marinai, viaggiatori, popoli delle fronde alte.
 
----
-
+<!-- secret:start -->
 ## Meccanica di Gioco
 - **Chierici e Paladini**: scelgono domini in base alla divinità.
 - **Warlock**: patroni possono essere entità minori nate dalla fede, spiriti legati a Yggdrasill o echi di divinità decadute.
 
----
 
 ## Spunti Narrativi
 - Dei in conflitto perché le fedi rivali minacciano la loro esistenza.
 - Divinità che tramano per aumentare il numero di fedeli.
 - Un dio antico dimenticato che ritorna quando il mondo vacilla.
+<!-- secret:end -->  
