@@ -1,6 +1,6 @@
 # Regno di Valdrin
 
-Valdrin è uno stato di confine strategico (sud-ovest di Aethertech).
+Valdrin è uno stato di confine strategico (sud-ovest di Æthertech).
 
 - Politica: Monarchia centralizzata, pragmatici e abili diplomatici.
 - Rapporti: Equilibrio delicato tra Aethertech e Arcana; evita conflitti diretti per non violare il trattato vicino a Yggdrasill.

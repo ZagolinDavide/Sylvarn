@@ -6,3 +6,4 @@ Benvenuto nella wiki del regno di Sylvarn, qui si trovano tutte le informazioni 
 - [[Veydrath|Regno di Veydrath]]
 - [[Valdrin|Regno di Valdrin]]
 
+Consultate [[📜  Linee Guida per i Giocatori|qui]] le linee guida per i giocatori
