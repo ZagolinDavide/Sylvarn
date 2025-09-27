@@ -1,18 +1,27 @@
-# Quartz v4
+Ambientazione custom D&D
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# Installa Quartz senza global, usa npx
+npx quartz init
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+# Build del sito
+npx quartz build
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+# Visualizzare il sito in locale
+npx quartz build --serve
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+# Sincronizzazione / deploy su GitHub
+npx quartz sync
+npx quartz sync --no-pull
 
-## Sponsors
+# Pulizia della build
+npx quartz clean
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+# Pulizia / backup
+npx quartz backup
+
+# Gestione plugin
+// Aggiungere un plugin: crea un file .ts nella cartella plugins/ e registra in quartz.config.ts
+import { MyPlugin } from "./plugins/myPlugin";
+export const QuartzConfig = {
+  plugins: [MyPlugin],
+};

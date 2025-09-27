@@ -1,1 +1,0 @@
-inventore delle [[Torri Ætheritiche]]

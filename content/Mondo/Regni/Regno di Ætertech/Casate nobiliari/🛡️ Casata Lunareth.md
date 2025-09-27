@@ -1,0 +1,1 @@
+(innovazione e arti, umana)

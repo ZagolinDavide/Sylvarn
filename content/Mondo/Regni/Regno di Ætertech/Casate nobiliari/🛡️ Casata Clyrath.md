@@ -1,0 +1,1 @@
+(commercio gioielli, lavorazione cristalli impuri)

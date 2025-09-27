@@ -3,5 +3,6 @@ Benvenuto nella wiki del regno di Sylvarn, qui si trovano tutte le informazioni 
 ## Sezioni principali
 - Storia del mondo
 - [[🏰 Æthertech|Regno Æthertech]]
-- Regno di Veydrath
+- [[Veydrath|Regno di Veydrath]]
+- [[Valdrin|Regno di Valdrin]]
 

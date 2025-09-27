@@ -1,6 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+import { FilterSecretPlugin } from "./plugins/filterSecret"
+
 /**
  * Quartz 4 Configuration
  *
@@ -17,7 +19,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Private"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -55,6 +57,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      FilterSecretPlugin(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],

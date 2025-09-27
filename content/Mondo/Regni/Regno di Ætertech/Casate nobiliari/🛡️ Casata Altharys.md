@@ -1,0 +1,1 @@
+(medicina, alchimia, ricerca)

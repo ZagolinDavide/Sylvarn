@@ -1,0 +1,7 @@
+- [[🛡️ Gilda Clyrath]]
+- [[🛡️ Gilda degli Alchimisti Vitali]]
+- [[🛡️ Gilda degli Artigiani Lunareth]]
+- [[🛡️ Gilda dei Cristallomanti]]
+- [[🛡️ Gilda dei Sentinelli Ætherici]]
+- [[🛡️ Gilda Ironclad]]
+- [[🛡️ Gilda Mercantile Corvath]]
