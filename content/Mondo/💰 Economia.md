@@ -3,7 +3,7 @@
 
 - **Sylbron(Bronn)**: Moneta di bronzo, utilizzato per piccole spese
 - **Sylvarn(Sylv)**: Moneta d'argento, la più utilizzata 
-- **Sulgul(Gull)**: Moneta d'oro, usata per grandi acquisti  
+- **Sylgul(Gull)**: Moneta d'oro, usata per grandi acquisti  
 - **Sylvit(Hvit)**: Moneta di platino, solitamente usata per transazioni particolari o di valore molto alto
 
 ## Conversione

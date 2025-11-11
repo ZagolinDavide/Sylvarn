@@ -1,5 +1,8 @@
 Ambientazione custom D&D
 
+# Link pubblico
+https://zagolindavide.github.io/Sylvarn/
+
 # Scarica pacchetti
 npm i
 

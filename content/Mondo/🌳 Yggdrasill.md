@@ -26,7 +26,7 @@ Più le popolazioni approfittano delle risorse di Yggdrasill più la sua crescit
 Cristallizzazione della trama stessa, possono essere trovati in qualsiasi punto si trovi vicino a Yggdrasill o una delle sue radici più grandi. Sono cristalli di diverso colore, forma e dimensione, data principalmente dal tempo di formazione e dalla purezza della trama:
 - **Colore**: i cristalli più puri sono trasparenti o di un leggero azzurro, mentre quelli considerati impuri possono assumere colorazioni differnti in base alla quantità di elementi all'interno del cristallo
 * **Dimensione**: più tempo passa prima della loro estrazione più le loro dimensioni aumentano, più la concentrazione della trama é alta prima i cristalli si formeranno
-Più i cristalli sono puri, maggiore sarà la loro efficacia nell'utilizzo di incantesimi data la loro, mentre maggiori saranno le sue impurità minore sarà la sua capacità di veicolare il mana. Questa tipologia di cristalli viene considerata abbastanza inutile nel [[Veydrath|Regno di Veydrath]] per la loro scarsa efficacia, mentre acquisiscono un valore non indifferente nel [[🏰 Æthertech|Regno di Æthertech]] dove, grazie alle loro colorazioni uniche vengono utilizzati come pietre per gioielli e piccoli artefatti con che uniscono semplici magie con alta gioielleria
+Più i cristalli sono puri, maggiore sarà la loro efficacia nell'utilizzo di incantesimi data la loro, mentre maggiori saranno le sue impurità minore sarà la sua capacità di veicolare il mana. Questa tipologia di cristalli viene considerata abbastanza inutile nel [[🏰 Veydrath|Regno di Veydrath]] per la loro scarsa efficacia, mentre acquisiscono un valore non indifferente nel [[🏰 Æthertech|Regno di Æthertech]] dove, grazie alle loro colorazioni uniche vengono utilizzati come pietre per gioielli e piccoli artefatti con che uniscono semplici magie con alta gioielleria
 
 ---
 ### **💧 Lifdra**
@@ -36,6 +36,7 @@ Il suo uso é molto vario, può essere utilizzato come liquido nella produzione 
 
 --- 
 ### **🌲 Barkrún**
-Corteccia ricavata dal grande albero Yggdrasill, composta da differenti strati che la rendono molto dura e resistente. Una volta lavorato il legno questo legno può diventare più resistente dell'acciao, per questo motivo il suo uso é molto flessibile e utilizzato per la produzione di artefatti magici
+Corteccia ricavata dal grande albero Yggdrasill, composta da differenti strati che la rendono molto dura e resistente. Una volta lavorato il legno questo legno può diventare più resistente dell'acciao, per questo motivo il suo uso é molto flessibile e utilizzato per la produzione di artefatti magici.
+Nonostante sia facilmente reperibile, la sua estrazione rasenta l'impossibile, per questo motivo é comunque uno dei materiali più rari da avere.
 
 

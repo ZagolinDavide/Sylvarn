@@ -1,13 +1,15 @@
-* [[🔗 Città del regno]]
+* [[🔗 Città del regno Æthertech]]
 	- [[🏙️ Ærital]]
 	- [[🏙️ Crystalon]]
 	- [[🏙️ Ferradyn]]
 	- [[🏙️ Lumivale]]
 	- [[🏙️ Lystren]]
 	- [[🏙️ Veyrhold]]
-*   [[🔗 Figure storiche]]
+---
+*   [[Mondo/Regni/Regno di Ætertech/Personaggi/🔗 Figure storiche|🔗 Figure storiche]]
 	* [[🧙‍♂️ Arien Lumis]]
 	* [[🧙‍♂️ Teryn Volcar]]
+---
 - [[🔗 Casate]]
 	- [[🛡️ Casata Altharys]]
 	- [[🛡️ Casata Clyrath]]
@@ -16,6 +18,7 @@
 	- [[🛡️ Casata Ironweave]]
 	- [[🛡️ Casata Lunareth]]
 	- [[🛡️ Casata Velaryn]]
+---
 * [[🔗 Gilde]]
 	* [[🛡️ Gilda Clyrath]]
 	- [[🛡️ Gilda degli Alchimisti Vitali]]
@@ -24,7 +27,9 @@
 	- [[🛡️ Gilda dei Sentinelli Ætherici]]
 	- [[🛡️ Gilda Ironclad]]
 	- [[🛡️ Gilda Mercantile Corvath]]
+---
 * [[🎭 Leggende Ætheriche]]
+---
 # 🏰 Panoramica del Regno
 
 **Posizione:**  
@@ -45,7 +50,7 @@ Il mercato è conteso tra **botteghe artigiane** e **conglomerati industriali**,
 ## 🗺️ Geografia
 
 **Estensione:**  
-Dalle radici di [[Yggdrasill]] fino alla catena montuosa meridionale, e da costa a costa, includendo anche alcune isole.
+Dalle radici di [[🌳 Yggdrasill|Yggdrasill]] fino alla catena montuosa meridionale, e da costa al [[🏰 Frodrak|regno di Valdrin]], includendo anche alcune isole.
 
 **Territorio:**  
 - Pianure e colline predominanti  
@@ -53,12 +58,12 @@ Dalle radici di [[Yggdrasill]] fino alla catena montuosa meridionale, e da costa
 - Catena montuosa a sud che separa Æthertech dai regni meridionali
 
 **Confini:**  
-- Nord: [[Regno di Veydrath]]  
-- Est: *Regno da definire*  
+- Nord: [[🏰 Veydrath|Regno di Veydrath]]  
+- Est: [[🏰 Frodrak|Regno di Valdrin]]
 - Sud: Terre oltre la catena montuosa
 
 **Clima:**  
-Moderato, grazie alla posizione sotto [[Yggdrasill]] e alla valle protetta da una catena montuosa semi-circolare che divide il continente in tre.
+Moderato, grazie alla posizione sotto [[🌳 Yggdrasill|Yggdrasill]] e alla valle protetta da una catena montuosa semi-circolare che divide il continente in tre.
 
 ---
 
@@ -84,7 +89,7 @@ La struttura della popolazione si suddivide in:
 
 ## 🎭 Cultura
 
-- Il grande albero [[Yggdrasill]] è visto come fonte di vita e risorse, da usare **eticamente**  
+- Il grande albero [[🌳 Yggdrasill|Yggdrasill]] è visto come fonte di vita e risorse, da usare **eticamente**  
 - Feste e fiere celebrano il **progresso tecnologico**  
 - Lo stile architettonico e urbano è assimilabile a uno **steampunk magico**
 - Popolazione di razze miste e ben amalgamante. Difficilmente nei centri principali scoppiano problemi legate alle differenze di razza, una storia leggermente differente si ha invece nei centri più piccoli e sperduti
@@ -107,10 +112,10 @@ In tutti questi gruppi però emergono ideologie differenti che si suddividono in
 ## 📍 Città Principali
 
 ### **[[🏙️ Ærital]]** – *Capitale del Regno*  
-- Costruita su una delle radici più rigogliose di [[Yggdrasill]]  
+- Costruita su una delle radici più rigogliose di [[🌳 Yggdrasill|Yggdrasill]]  
 - Accesso diretto a materiali e campioni per lo studio  
 - Nobiltà situata su una **roccia fluttuante**, che divide la città in parte alta e bassa  
-- Le [[📍 Torri Ætheritiche]] assorbono e distribuiscono la trama in tutta la città
+- Le [[📍 Torri Ætheritiche|Torri Ætheritiche]] assorbono e distribuiscono la trama in tutta la città
 
 ### **[[🏙️ Crystalon]]**  
 - Situata nelle montagne del sud  

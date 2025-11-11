@@ -3,7 +3,7 @@ Snodo commerciale
 
 ## 🗺️ Posizione geografica:
 #TODO
-Sul confine con il [[Valdrin|Regno di Veydrath]], e un secondo regno da definire
+Sul confine con il [[🏰 Frodrak|Regno di Veydrath]], e un secondo regno da definire
 
 ## 🕸️ Ruolo nel regno:  
 Snodo commerciale situato a cavallo di 3 regni, utile per effettuare operazioni di import/export prodotti

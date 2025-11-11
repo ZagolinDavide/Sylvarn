@@ -1,10 +1,12 @@
-# Regno di Veydrath (ex arcana)
+- [[🌀 Torre Tidruheim]]
+- [[🌟 Torre Guldheim]]
+- [[💠 Torre Andrheim]]
+- [[🔥 Torre Eldrheim]]
+- [[🕸️ Torre Skuggheim]]
 
-Arcana è governato dal Consiglio delle Torri (5 membri). Le torri sono costruite su radici e hanno una piccola città/castello intorno.
 
-## Funzione
-- Centro di conoscenza arcana, produzione di artefatti magici, e formazione dei maghi.
-- Ogni torre ha una piccola cittadina di supporto.
+
+
 
 # Torri: Temi e Capifazione
 
@@ -30,6 +32,12 @@ Le Torri sono centri di ricerca costruiti sulle radici. Qui i temi principali e 
    - Capo: Mago **Neryth Duskveil**
    - Focus: spionaggio, occultamento e operazioni segrete.
 
-## Note
-- Ogni torre ha una cittadina di supporto costruita attorno alla radice.
-- TODO: creare pagine dedicate per ciascuna torre (storia, missioni, NPC secondari).
+
+
+- **Fiamme vs Respiro** – Si malvedono per la visione opposta della magia: offensiva vs curativa.
+
+- **Torre dell’Ombra** – Guardata con sospetto e diffidenza da tutte le altre.
+
+- **Torre Alchemica** – Disprezzata in segreto per l’approccio più pratico che mistico, ma indispensabile per le componenti materiali.
+
+- **Torre del Tempo** – Rispettata e temuta per la loro ricerca instabile, che porta a incidenti, ma anche scoperte fondamentali.
