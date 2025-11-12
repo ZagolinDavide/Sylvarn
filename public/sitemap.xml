@@ -1,4 +1,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%8C%B3-Yggdrasill</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%92%B0-Economia</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%93%9C--Linee-Guida-per-i-Giocatori</loc>
+    <lastmod>2025-09-27T14:22:59.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%99%8F-Religione-e-Divinit%C3%A0</loc>
+    <lastmod>2025-09-27T14:22:59.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Personaggi/Maelor-Korran</loc>
+    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Storia/Indice-storia</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Storia/%E2%9A%94%EF%B8%8F-Grande-guerra-per-il-controllo-della-trama</loc>
+    <lastmod>2025-09-20T12:56:31.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Campagne/Personaggi/%C3%86thertech/Althariel-Droskyn</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
@@ -41,65 +65,14 @@
     <loc>https://quartz.jzhao.xyz/Campagne/Personaggi/%C3%86thertech/Tharion-Velcath</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Personaggi/Maelor-Korran</loc>
-    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Festivit%C3%A0/Festivit%C3%A0-ed-eventi</loc>
-    <lastmod>2025-11-11T20:46:16.402Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/TOBE-DEFINED</loc>
-    <lastmod>2025-11-11T21:05:08.097Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/%F0%9F%8F%B0-Frodrak</loc>
-    <lastmod>2025-11-11T21:45:10.793Z</lastmod>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Auralis</loc>
-    <lastmod>2025-10-04T20:46:51.648Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Gildrun</loc>
-    <lastmod>2025-10-04T20:47:04.019Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Skjoldheim</loc>
-    <lastmod>2025-10-04T20:46:57.433Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Tidvyrn</loc>
-    <lastmod>2025-10-04T20:47:29.454Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Torrheim</loc>
-    <lastmod>2025-10-04T20:46:43.467Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%94%97-Citt%C3%A0-del-regno-Veydrath</loc>
-    <lastmod>2025-10-04T20:45:41.235Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Festivit%C3%A0/Festivit%C3%A0</loc>
-    <lastmod>2025-11-11T20:55:49.248Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Personaggi/%F0%9F%94%97-Figure-storiche</loc>
-    <lastmod>2025-10-04T21:03:32.817Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Storie-e-leggende/%F0%9F%8E%AD-Leggende-Veydrite</loc>
-    <lastmod>2025-10-04T21:08:33.642Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%8C%80-Torre-Tidruheim</loc>
-    <lastmod>2025-10-11T14:34:28.524Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%8C%9F-Torre-Guldheim</loc>
-    <lastmod>2025-10-11T14:34:03.480Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%92%A0-Torre-Andrheim</loc>
-    <lastmod>2025-10-11T14:34:03.492Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%94%97-Torri</loc>
-    <lastmod>2025-10-11T14:34:03.511Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%94%A5-Torre-Eldrheim</loc>
-    <lastmod>2025-10-11T14:34:03.520Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%95%B8%EF%B8%8F-Torre-Skuggheim</loc>
-    <lastmod>2025-10-08T21:13:40.075Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/%F0%9F%8F%B0-%C3%86thertech</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/%F0%9F%8F%B0-Veydrath</loc>
-    <lastmod>2025-11-11T21:34:27.246Z</lastmod>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Casate-nobiliari/%F0%9F%94%97-Casate</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
@@ -125,6 +98,15 @@
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Casate-nobiliari/%F0%9F%9B%A1%EF%B8%8F-Casata-Velaryn</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Festivit%C3%A0/Festivit%C3%A0-ed-eventi</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%94%97-Clan</loc>
+    <lastmod>2025-11-12T22:12:23.042Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Bl%C3%B3%C3%B0fjell</loc>
+    <lastmod>2025-11-12T22:11:26.531Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Citt%C3%A1/%F0%9F%8F%99%EF%B8%8F-Crystalon</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
@@ -135,7 +117,7 @@
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Citt%C3%A1/%F0%9F%8F%99%EF%B8%8F-Lystren</loc>
-    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Citt%C3%A1/%F0%9F%8F%99%EF%B8%8F-Veyrhold</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
@@ -144,21 +126,12 @@
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Citt%C3%A1/%F0%9F%94%97-Citt%C3%A0-del-regno-%C3%86thertech</loc>
-    <lastmod>2025-09-27T14:11:55.068Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Concilio-dei-Tecnologi/Concilio-dei-Tecnologi</loc>
-    <lastmod>2025-10-04T20:06:26.825Z</lastmod>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%94%97-Gilde</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-Clyrath</loc>
-    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-Ironclad</loc>
-    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-Mercantile-Corvath</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-degli-Alchimisti-Vitali</loc>
@@ -172,6 +145,15 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-dei-Sentinelli-%C3%86therici</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-Ironclad</loc>
+    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Gilde/%F0%9F%9B%A1%EF%B8%8F-Gilda-Mercantile-Corvath</loc>
+    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Concilio-dei-Tecnologi/Concilio-dei-Tecnologi</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Personaggi/%F0%9F%94%97-Figure-storiche</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
@@ -197,27 +179,72 @@
     <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/Storie-e-Leggende/%F0%9F%8E%AD-Leggende-%C3%86theriche</loc>
     <lastmod>2025-09-27T13:40:38.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-%C3%86tertech/%F0%9F%8F%B0-%C3%86thertech</loc>
-    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Auralis</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Storia/Indice-storia</loc>
-    <lastmod>2025-11-11T21:37:14.225Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Gildrun</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/Storia/%E2%9A%94%EF%B8%8F-Grande-guerra-per-il-controllo-della-trama</loc>
-    <lastmod>2025-09-20T12:56:31.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Skjoldheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%8C%B3-Yggdrasill</loc>
-    <lastmod>2025-09-27T13:40:38.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Tidvyrn</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%92%B0-Economia</loc>
-    <lastmod>2025-09-20T12:56:31.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%8F%99%EF%B8%8F-Torrheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%93%9C--Linee-Guida-per-i-Giocatori</loc>
-    <lastmod>2025-09-27T14:22:59.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Citt%C3%A0/%F0%9F%94%97-Citt%C3%A0-del-regno-Veydrath</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Mondo/%F0%9F%99%8F-Religione-e-Divinit%C3%A0</loc>
-    <lastmod>2025-09-27T14:22:59.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Festivit%C3%A0/Festivit%C3%A0</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2025-09-27T14:34:05.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Storie-e-leggende/%F0%9F%8E%AD-Leggende-Veydrite</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Personaggi/%F0%9F%94%97-Figure-storiche</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%8C%80-Torre-Tidruheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%8C%9F-Torre-Guldheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%92%A0-Torre-Andrheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%94%97-Torri</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%94%A5-Torre-Eldrheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Veydrath/Torri-della-magia/%F0%9F%95%B8%EF%B8%8F-Torre-Skuggheim</loc>
+    <lastmod>2025-11-11T21:46:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Hjarn</loc>
+    <lastmod>2025-11-12T22:13:28.377Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Morvath</loc>
+    <lastmod>2025-11-12T22:13:31.698Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Skadir</loc>
+    <lastmod>2025-11-12T22:13:37.050Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Thryss</loc>
+    <lastmod>2025-11-12T22:13:43.275Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Vornheim</loc>
+    <lastmod>2025-11-12T22:15:20.443Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Nornvald</loc>
+    <lastmod>2025-11-12T22:13:34.501Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-Skarnulf</loc>
+    <lastmod>2025-11-12T22:13:39.612Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Mondo/Regni/Regno-di-Frodrak/Clan/%F0%9F%A9%B8-Clan-V%C3%A6rdan</loc>
+    <lastmod>2025-11-12T22:14:10.729Z</lastmod>
   </url></urlset>
