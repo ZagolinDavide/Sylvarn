@@ -12,7 +12,7 @@
 
 ## ⚙️ Informazioni generali
 - **Totem:** Orso rosso
-- **Colori / Simboli:** {{descrizione di colori, stemmi o rune distintive}}
+- **Colori / Simboli:** Orso bruno dipinto di rosso sangue
 - **Posizione geografico:** {{regione, territorio o tipo di ambiente}}
 - **Ruolo simbolico:** {{es. La Forza, Il Silenzio, Il Destino}}
 
