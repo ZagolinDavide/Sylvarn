@@ -54,3 +54,6 @@
 - Divinità che tramano per aumentare il numero di fedeli.
 - Un dio antico dimenticato che ritorna quando il mondo vacilla.
 <!-- secret:end -->  
+
+### **Urd, Verdandi e Skuld**
+le tre norne mitologiche che tutto vedono e tutto sanno

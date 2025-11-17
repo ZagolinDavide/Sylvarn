@@ -63,19 +63,40 @@ Se il tatuatore fallisce la prova di Religione, nessuna divinità conferirà a l
 Se il fallimento avvenisse durante la prova di Destrezza vorrebbe dire che il tatuatore non realizza in maniera corretta il tatuaggio (ad esempio potrebbe non aver realizzato linee precise, errori durante la realizzazione del tatuaggio, ecc...). Per questo motivo il tatuaggio resterà sulla pelle del tatuato ma senza avere alcun effetto particolare. Dopo nove giorni, quando il tatuaggio sarà guarito, si potrà ripetere la prova di Religione e di Destrezza per correggere il tatuaggio
 
 ### Riattivazione tatuaggio
-#TODO
+È possibile, compiendo un opportuno sacrificio, chiedere alle divinità la riattivazione del tatuaggio. Il personaggio dovrà eseguire una scarnificazione ripassando il tatuaggio e reinfondendo nuovo potere nel disegno.
+Questa cerimonia può essere effettuata solo quando ci si trova in luoghi di potere specifici o quando il personaggio si trova particolarmente in sintonia con le divinità, consumando dadi vita pari ogni livello di incantesimo che si desidera riattivare
 
-### Cancellazione tatuaggio
-#TODO
+### Cancellare un tatuaggio
+In circostanze particolarmente significative, un personaggio potrebbe decidere di rinnegare il motivo per cui si è inciso il tatuaggio, procedendo a raschiare e martoriare la pelle su cui si trova lasciandola in uno stato che risulta impossibile da tatuare nuovamente.
+Per rimuovere l'effetto passivo del tatuaggio non è necessario arrivare a rimuoverlo, è sufficiente smettere di essere in sintonia con esso, la rimozione ha solitamente un significato più profondo.
 
 ### Incantesimi
-#TODO
+Alcuni incantesimi possono avere una CD per resistere agli effetti, oppure un tiro per colpire l'avversario. In questi casi si utilizzano le seguenti formule:
+
+> [!info] CD: 8 + Bonus Competenza del tatuatore + Modificare Saggezza del tatuatore
+
+>[!info] TC: Bonus competenza tatuatore + Modificatore Saggezza del tatuatore
+
+Questo comporta che colui che esegue il tatuaggio ha una sua importanza, farse tatuare da un saggio che è in comunione con gli Dei porta maggiori benefici
 
 ---
 # Pitture rituali
-#TODO
+La pittura si discosta leggermente dal tatuaggio, sempre in momenti e cerimonie solonne é possibile disegnare un simbolo sul proprio corpo con sangue, cenere o colore rappresentando una dedizione meno permanente, infatti i suoi effetti dureranno fino al prossimo riposo breve.
+Una pittura dona al personaggio dona al personaggio il potere permanente di un simbolo ma solo per un periodo di tempo molto ridotto e richiede armonia con esso.
+Farsi dipingere un simbolo è un'azione che deve essere effettuata in un contesto rituale e può essere svolto come parte di un riposo breve.
 
+L'officiante deve attendere il prossimo riposo lungo prima di poter eseguire una nuova cerimonia. Nel caso la cerimonia fallisse, il marchio rimane addosso al personaggio ma privo di potere, avrà solo una funzione estetica.
+
+> [!IMPORTANT] Può essere attiva una sola pittura per volta sullo stesso personaggio
 
 ---
 # Talismani
-#TODO
+[[Rune]] e simboli possono essere incisi su oggetti della vita di tutti i giorni come amuleti, armi, scudi, ecc..., ma non può trattarsi di un oggetto completamente banale, l'oggetto dovrebbe avere un valore intrinseco per il suo portatore.
+Un oggetto che riceve un glifo diventa quindi un talismano, la prova per incidere il glifo può variare a seconda di molti fattori, sarà il GM a deciderne il funzionamento volta per volta.
+
+Se si fallisce la prova per incidere il glifo, l'oggetto resterà comunque marchiato ma per via di qualche imperfezione non avrà nessun potere. Sarà possibile correggere il glifo, ma la CD per la sua realizzazione aumenterà di 2 punti.
+
+Il talismano con cui entrare in sintonia può essere scelto dopo un riposo lungo.
+Se si decidere di perdere l'armonia con un oggetto esso potrà essere utilizzato normalmente ma senza ottenere i vantaggi del glifo.
+
+È possibile legare il potere del glifo a particolari condizioni, come l'essere parte della stessa famiglia o riceverlo in dono dal suo precedente proprietario, in questo modo non tutti potranno utilizzarlo e per coloro che non ne hanno facoltà sarà come un oggetto normale.
