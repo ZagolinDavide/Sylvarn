@@ -91,7 +91,7 @@ L'officiante deve attendere il prossimo riposo lungo prima di poter eseguire una
 
 ---
 # Talismani
-[[Rune]] e simboli possono essere incisi su oggetti della vita di tutti i giorni come amuleti, armi, scudi, ecc..., ma non può trattarsi di un oggetto completamente banale, l'oggetto dovrebbe avere un valore intrinseco per il suo portatore.
+[[Compendio runico|Rune]] e simboli possono essere incisi su oggetti della vita di tutti i giorni come amuleti, armi, scudi, ecc..., ma non può trattarsi di un oggetto completamente banale, l'oggetto dovrebbe avere un valore intrinseco per il suo portatore.
 Un oggetto che riceve un glifo diventa quindi un talismano, la prova per incidere il glifo può variare a seconda di molti fattori, sarà il GM a deciderne il funzionamento volta per volta.
 
 Se si fallisce la prova per incidere il glifo, l'oggetto resterà comunque marchiato ma per via di qualche imperfezione non avrà nessun potere. Sarà possibile correggere il glifo, ma la CD per la sua realizzazione aumenterà di 2 punti.
@@ -100,3 +100,13 @@ Il talismano con cui entrare in sintonia può essere scelto dopo un riposo lungo
 Se si decidere di perdere l'armonia con un oggetto esso potrà essere utilizzato normalmente ma senza ottenere i vantaggi del glifo.
 
 È possibile legare il potere del glifo a particolari condizioni, come l'essere parte della stessa famiglia o riceverlo in dono dal suo precedente proprietario, in questo modo non tutti potranno utilizzarlo e per coloro che non ne hanno facoltà sarà come un oggetto normale.
+
+--- 
+
+# Fusione con il mondo di Sylvarn
+Tatuaggi, pitture e talismani si fondono al mondo di Sylvarn in maniera completa, tutte le popolazioni conoscono queste pratiche e le attuano ma in maniere differenti fra loro:
+
+* Nel regno [[🏰 Æthertech|Æthertech]] sono molto diffuse le rune incise su oggetti, essendo una società basata sulla condivisione della magia tendono a utilizzare le rune incise sui loro oggetti in modo da conferire maggiore potere alle proprie creazioni. Tatuaggi e pitture sono utilizzati meno, hanno uno scopo molto più celebrativo, magari portato da artigiani per commemorare l;a realizzazione di della loro Magnum opus.
+* Nel regno di [[🏰 Veydrath|Veydrath]] viene fatto un uso moderato di tutto, le rune vengono utilizzate per la preparazione di incantesimi o di attrezzatura per lo studio della magia. Anche qui, tatuaggi e pitture rivestono un ruolo più secondario anche se più diffuso, in questo modo sostengono di essere più vicini alle divinità e alla trama stessa
+* Nelle tribù di [[🏰 Frodrak|Frodrak]] invece sono molto più diffusi tatuaggi e pitture, in modo che possano sentirsi più in sintonia con le divinità, la natura e la trama stessa. La realizzazione di talismani invece è meno comune in quanto essendo un popolo più selvaggio ha maggiori difficoltà con la lavorazione di precisione.
+
