@@ -57,3 +57,61 @@ https://it.wikipedia.org/wiki/Fehu
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Uruz
 <!-- secret:end -->  
+
+---
+
+# ᚦ Thurisaz
+## Il martello e la Spina
+
+> [!important] mettere immagine qui  
+
+<table class="centered vichinga">
+   <tr>
+    <th colspan="2">Significato Divinatorio</th>
+  </tr>
+  <tr>
+    <th>DRITTA</th>
+    <th>ROVESCIATA</th>
+  </tr>
+  <tr>
+    <td>Resistenza, protezione, giuste decisioni</td>
+    <td>Fragilità, confusione, imprevisto</td>
+  </tr>
+  </table>
+
+## 🏺 Storia e Contesto Culturale
+#TODO 
+
+<!-- secret:start -->
+https://it.wikipedia.org/wiki/%C3%9Eurisaz
+<!-- secret:end -->  
+
+---
+
+# ᚨ Ansuz
+## La bocca della saggezza
+
+> [!important] mettere immagine qui  
+
+<table class="centered vichinga">
+   <tr>
+    <th colspan="2">Significato Divinatorio</th>
+  </tr>
+  <tr>
+    <th>DRITTA</th>
+    <th>ROVESCIATA</th>
+  </tr>
+  <tr>
+    <td>Guarigione, saggezza, ispirazione</td>
+    <td>Inganno, tradimento, egoismo</td>
+  </tr>
+  </table>
+
+## 🏺 Storia e Contesto Culturale
+#TODO 
+
+<!-- secret:start -->
+https://it.wikipedia.org/wiki/%C3%9Eurisaz
+<!-- secret:end -->  
+
+---
