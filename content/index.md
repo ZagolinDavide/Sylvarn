@@ -6,5 +6,5 @@ Benvenuto nella wiki del regno di Sylvarn, qui si trovano tutte le informazioni 
 - [[🏰 Veydrath|Regno di Veydrath]]
 - [[🏰 Frodrak|Regno di Frodrak]]
 
-Consultate [[📜  Linee Guida|qui]] le linee guida per i giocatori
+Consultate [[🔗 Indice|qui]] le linee guida per i giocatori
 
