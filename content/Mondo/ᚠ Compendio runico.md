@@ -2,12 +2,22 @@
 
 > Tratto dal manuale [[🪓 Norse Grimoire|Norse Grimoire]]
 
+Quando in gioco appare una runa possono essere utilizzate le regole opzionali delle *Rune guida*
+
+Ogni personaggio può decidere di votarsi ad una particolare runa dell'alfabeto Futhark e indossarla su di un talismano, un'arma, un gioiello o incisa sul proprio corpo.
+
+Nel caso appaia una runa che non appartiene a nessun Ætt tra quelli a cui sono votati i personaggi, non avverrà alcune effetto. Tutti gli effetti rimangono attivi fino al prossimo riposo lungo.
+
+## Effetto dell'Ætt
+Quando appare una runa che appartiene all'Ætt della runa a cui il personaggio é votato, questi ne subirà influenza minore.
+L'effetto Ætt è da intendersi come uno spunto narrativo e interpretativo.
+
+## Effetto della runa
+Quando appare una runa il cui personaggio è votato ne subirà una influenza maggiore. L'effetto della runa si somma all'effetto dell'Ætt e si aggiungono anche effetti sulle meccaniche di gioco.
+
 ---
 # ᚠ Fehu
 ## Ricchezza e prosperità
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Runic_letter_fehu.svg/25px-Runic_letter_fehu.svg.png)](https://it.wikipedia.org/wiki/File:Runic_letter_fehu.svg)
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -23,8 +33,32 @@
   </tr>
   </table>
 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Il personaggio si sente pervaso da un rinnovato ottimismo, tutto sembra andare per il verso giusto.
+
+### Effetto della Runa Fehu
+Il personaggio ottiene +1 a tutte le prove di abilità.
+
+### Effetto dell'Ætt di Freya Rovesciata
+Tutto sembra andare per il verso giusto, ma per gli altri. Il personaggio sente forte invidia e gelosia per il successo altrui, sperando per il loro fallimento.
+
+### Effetto della Runa Fehu Rovesciata
+Il personaggio ottiene -1 a tutte le prove di abilità.
+
+## 🪶 Effetto del glifo
+Fehu è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Crescita Vegetale]]
+
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: il personaggio ottiene vantaggio nelle prove *Addestrare animali* se usate per ammansire, governare e prendersi cura di loro.
+* *Interpretativo*: il personaggio é pervaso da un senso di benessere e soddisfazione, ma al contempo non riesce a scacciare la sensazione che chi lo circonda desideri ciò che è suo.
+* *Estetico*: le vene, su gambe e braccia del personaggio, sembrano stranamente in rilievo, quasi fossero viticci che si arrampicano sul corpo, dando anche riflessi leggermente doratri
+
 ## 🏺 Storia e Contesto Culturale
-#todo
+
 
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Fehu
@@ -34,8 +68,6 @@ https://it.wikipedia.org/wiki/Fehu
 
 # ᚢ Uruz
 ## Forza del toro
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -51,6 +83,24 @@ https://it.wikipedia.org/wiki/Fehu
   </tr>
   </table>
 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Nulla può fermare o ostacolare il personaggio, oggi terrà alto il suo nome.
+### Effetto della Runa Fehu
+Il personaggio è competente nelle prove di *Iniziativa*.
+### Effetto dell'Ætt di Freya Rovesciata
+La forza prevede la contrapposizione con la debolezza altrui. Il personaggio prevede soprusi e, aggressioni e sfruttamento dei deboli che potrebbero danneggiare il suo onere e la sua reputazione
+### Effetto della Runa Fehu Rovesciata
+Il personaggio dispone di vantaggio nelle prove di *Intimidire* e negli attacchi contro creature che hanno forza inferiore al suo. Allo stesso modo, dispone di svantaggio contro chi possiede un valore di forza più alto
+
+## 🪶 Effetto del glifo
+Uruz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]].
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Caratteristica potenziata - Forza del Toro]].
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: il personaggio aggiunge il proprio *Bonus di Competenza* nelle prove di forza
+* *Interpretativo*: Il personaggio si sente in grado di affrontare il mondo intero. Desidera azione, combattere e misurarsi con avversari più potenti di loro. Lo stesso desiderio di passione lo fa cedere spesso e volentieri ai piaceri della carne
+* *Estetico*: Il personaggio diventa più possente e robusto, il collo si allarga, i muscoli si tendono e la voce si abbassa
 ## 🏺 Storia e Contesto Culturale
 #TODO 
 
@@ -62,8 +112,6 @@ https://it.wikipedia.org/wiki/Uruz
 
 # ᚦ Thurisaz
 ## Il martello e la Spina
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -79,6 +127,25 @@ https://it.wikipedia.org/wiki/Uruz
   </tr>
   </table>
 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Quando arriva la tempesta più violenta, è allora che bisogna cercare riparo alle mura più solide ed affidarsi alle strategie migliori.
+### Effetto della Runa Fehu
+Ogni volta che il personaggio subisce danno lo riduce di 1. Nel caso il danno venga ridotto a 0, il danno viene considerato come annullato
+
+### Effetto dell'Ætt di Freya Rovesciata
+Il personaggio perde sicurezza, si sente indifeso e in balia degli eventi.
+### Effetto della Runa Fehu Rovesciata
+Ogni volta che il personaggio subisce danno, viene sempre aumentato di 1
+
+## 🪶 Effetto del glifo
+Uruz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 0]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Colpo accurato]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: il personaggio aggiunge un 1d6 ad ogni danno inflitto, se combatte contro un gigante o un nemico di taglia più grande.
+* *Interpretativo*: Il personaggio sente una forza primordiale dentro di se che chiede di essere usata. Desidera spingersi oltre i suoi limiti, affrontando rischi e avversari sempre più pericolosi.
+* *Estetico*: Il personaggio sembra decisamente più alto. Tutto in lui sembra più massiccio e ogni tanto è possibile vedere delle piccole scariche elettriche provenire dai suoi palmi io dalle sue ciglia. 
 ## 🏺 Storia e Contesto Culturale
 #TODO 
 
