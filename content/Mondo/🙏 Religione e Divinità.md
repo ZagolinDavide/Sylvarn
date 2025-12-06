@@ -49,6 +49,8 @@
 - **Warlock**: patroni possono essere entità minori nate dalla fede, spiriti legati a Yggdrasill o echi di divinità decadute.
 
 
+**YNDRAV** -> il vecchio unico e solo dio, da integrare e riscrivere in modo che sia una divinità considerata malvagia perchè vuole distruggere il mondo
+
 ## Spunti Narrativi
 - Dei in conflitto perché le fedi rivali minacciano la loro esistenza.
 - Divinità che tramano per aumentare il numero di fedeli.

@@ -36,31 +36,23 @@ Quando appare una runa il cui personaggio è votato ne subirà una influenza mag
 ## 🧭 Effetto della runa guida
 ### Effetto dell'Ætt di Freya
 Il personaggio si sente pervaso da un rinnovato ottimismo, tutto sembra andare per il verso giusto.
-
 ### Effetto della Runa Fehu
 Il personaggio ottiene +1 a tutte le prove di abilità.
-
 ### Effetto dell'Ætt di Freya Rovesciata
 Tutto sembra andare per il verso giusto, ma per gli altri. Il personaggio sente forte invidia e gelosia per il successo altrui, sperando per il loro fallimento.
-
 ### Effetto della Runa Fehu Rovesciata
 Il personaggio ottiene -1 a tutte le prove di abilità.
 
 ## 🪶 Effetto del glifo
 Fehu è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
-
 ### Effetto temporaneo del tatuaggio
 Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Crescita Vegetale]]
-
 ### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
 * *Meccanico*: il personaggio ottiene vantaggio nelle prove *Addestrare animali* se usate per ammansire, governare e prendersi cura di loro.
+<!-- secret:start -->
 * *Interpretativo*: il personaggio é pervaso da un senso di benessere e soddisfazione, ma al contempo non riesce a scacciare la sensazione che chi lo circonda desideri ciò che è suo.
 * *Estetico*: le vene, su gambe e braccia del personaggio, sembrano stranamente in rilievo, quasi fossero viticci che si arrampicano sul corpo, dando anche riflessi leggermente doratri
 
-## 🏺 Storia e Contesto Culturale
-
-
-<!-- secret:start -->
 https://it.wikipedia.org/wiki/Fehu
 <!-- secret:end -->  
 
@@ -86,11 +78,11 @@ https://it.wikipedia.org/wiki/Fehu
 ## 🧭 Effetto della runa guida
 ### Effetto dell'Ætt di Freya
 Nulla può fermare o ostacolare il personaggio, oggi terrà alto il suo nome.
-### Effetto della Runa Fehu
+### Effetto della Runa Uruz
 Il personaggio è competente nelle prove di *Iniziativa*.
 ### Effetto dell'Ætt di Freya Rovesciata
 La forza prevede la contrapposizione con la debolezza altrui. Il personaggio prevede soprusi e, aggressioni e sfruttamento dei deboli che potrebbero danneggiare il suo onere e la sua reputazione
-### Effetto della Runa Fehu Rovesciata
+### Effetto della Runa Uruz Rovesciata
 Il personaggio dispone di vantaggio nelle prove di *Intimidire* e negli attacchi contro creature che hanno forza inferiore al suo. Allo stesso modo, dispone di svantaggio contro chi possiede un valore di forza più alto
 
 ## 🪶 Effetto del glifo
@@ -99,12 +91,10 @@ Uruz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livell
 Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Caratteristica potenziata - Forza del Toro]].
 ### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
 * *Meccanico*: il personaggio aggiunge il proprio *Bonus di Competenza* nelle prove di forza
+<!-- secret:start -->
 * *Interpretativo*: Il personaggio si sente in grado di affrontare il mondo intero. Desidera azione, combattere e misurarsi con avversari più potenti di loro. Lo stesso desiderio di passione lo fa cedere spesso e volentieri ai piaceri della carne
 * *Estetico*: Il personaggio diventa più possente e robusto, il collo si allarga, i muscoli si tendono e la voce si abbassa
-## 🏺 Storia e Contesto Culturale
-#TODO 
 
-<!-- secret:start -->
 https://it.wikipedia.org/wiki/Uruz
 <!-- secret:end -->  
 
@@ -130,12 +120,11 @@ https://it.wikipedia.org/wiki/Uruz
 ## 🧭 Effetto della runa guida
 ### Effetto dell'Ætt di Freya
 Quando arriva la tempesta più violenta, è allora che bisogna cercare riparo alle mura più solide ed affidarsi alle strategie migliori.
-### Effetto della Runa Fehu
+### Effetto della Runa Thurisaz
 Ogni volta che il personaggio subisce danno lo riduce di 1. Nel caso il danno venga ridotto a 0, il danno viene considerato come annullato
-
 ### Effetto dell'Ætt di Freya Rovesciata
 Il personaggio perde sicurezza, si sente indifeso e in balia degli eventi.
-### Effetto della Runa Fehu Rovesciata
+### Effetto della Runa Thurisaz Rovesciata
 Ogni volta che il personaggio subisce danno, viene sempre aumentato di 1
 
 ## 🪶 Effetto del glifo
@@ -144,12 +133,10 @@ Uruz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livell
 Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Colpo accurato]]
 ### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
 * *Meccanico*: il personaggio aggiunge un 1d6 ad ogni danno inflitto, se combatte contro un gigante o un nemico di taglia più grande.
+<!-- secret:start -->
 * *Interpretativo*: Il personaggio sente una forza primordiale dentro di se che chiede di essere usata. Desidera spingersi oltre i suoi limiti, affrontando rischi e avversari sempre più pericolosi.
 * *Estetico*: Il personaggio sembra decisamente più alto. Tutto in lui sembra più massiccio e ogni tanto è possibile vedere delle piccole scariche elettriche provenire dai suoi palmi io dalle sue ciglia. 
-## 🏺 Storia e Contesto Culturale
-#TODO 
 
-<!-- secret:start -->
 https://it.wikipedia.org/wiki/%C3%9Eurisaz
 <!-- secret:end -->  
 
@@ -157,8 +144,6 @@ https://it.wikipedia.org/wiki/%C3%9Eurisaz
 
 # ᚨ Ansuz
 ## La bocca della saggezza
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -174,19 +159,34 @@ https://it.wikipedia.org/wiki/%C3%9Eurisaz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Oggi il personaggio prevede che vedranno la luce nuove idee, si troveranno soluzioni ed ogni nodo della vita verrà sciolto
+### Effetto della Runa Ansuz
+Il personaggio ottiene immediatamente un dado di inspirazione
+### Effetto dell'Ætt di Freya Rovesciata
+Il tradimento e l'inganno sono dietro l'angolo, nulla è come sembra e ci si può fidare solo di se stessi
+### Effetto della Runa Ansuz Rovesciata
+Il personaggio non può beneficiare dell'azione [[Aiuto]] ne di altre fonti di vantaggio che verrebbero fornite da altre creature
 
+## 🪶 Effetto del glifo
+Ansuz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Zona di verità]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio può aggiungere 1d8 al tiro di un alleato quando riguardo riguarda qualcosa di cui il portatore della runa è competente, previo avergli dato consiglio in merito. Il personaggio può utilizzare tante volte quanto il suo punteggio di Saggezza per ogni riposo lungo.
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio sente di poter vedere schemi che ad altri sono nascosti. Gli Dei stanno forse cercando di guidarlo verso ciò che per lui o i suoi compagni è importante.
+* *Estetico*: Il personaggio appare più maturo e rispettabile. I suoi capelli si screziano d'argento e ha lo sguardo di chi ricorda la nascita e la caduta di re ed eroi. 
+
 https://it.wikipedia.org/wiki/Ansuz
 <!-- secret:end -->  
 
 ---
 
+
 # ᚱ Raido
 ## Il viaggio
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -202,10 +202,27 @@ https://it.wikipedia.org/wiki/Ansuz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Il mondo è tutto da esplorare e da vivere, in libertà, seguendo il cammino che gli Dei hanno previsto
+### Effetto della Runa Raido
+Il personaggio ignora il terreno difficile
+### Effetto dell'Ætt di Freya Rovesciata
+Il personaggio prevede un cammino irto di ostacoli, problemi e imprevisti. Si domanda se valga la pena fare tutti questi sforzi, e gli verrebbe da rinunciare alla prima difficoltà che incontra
+### Effetto della Runa Raido Rovesciata
+Il personaggio non può compiere l'azione di [[Scatto]] né beneficiare di alcun aumento alla sua velocità base
 
+## 🪶 Effetto del glifo
+Raido è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 1]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Libertà di movimento]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio può aggiungere 1d8 al tiro di un alleato quando riguardo riguarda qualcosa di cui il portatore della runa è competente, previo avergli dato consiglio in merito. Il personaggio può utilizzare tante volte quanto il suo punteggio di Saggezza per ogni riposo lungo.
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio sente di poter vedere schemi che ad altri sono nascosti. Gli Dei stanno forse cercando di guidarlo verso ciò che per lui o i suoi compagni è importante.
+* *Estetico*: Il personaggio appare più maturo e rispettabile. I suoi capelli si screziano d'argento e ha lo sguardo di chi ricorda la nascita e la caduta di re ed eroi. 
+
+
 https://it.wikipedia.org/wiki/Raido
 <!-- secret:end -->  
 
@@ -213,8 +230,6 @@ https://it.wikipedia.org/wiki/Raido
 
 # ᚲ Kenaz
 ## La luce nelle tenebre
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -230,10 +245,26 @@ https://it.wikipedia.org/wiki/Raido
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Oggi girerà tutto per il meglio, ogni problema diverrà un'opportunità, ogni sfida diverrà l'occasione per crescere e migliorare
+### Effetto della Runa Kenaz
+Ogni volta che il personaggio fallisce un tiro salvezza, un attacco o una prova di abilità, dispone di vantaggio al tiro successivo dello stesso tipo
+### Effetto dell'Ætt di Freya Rovesciata
+Oggi il personaggio si sente oltremodo sicure dei propri mezzi, e rischia di incappare in problemi evitabili se solo non desse per scontato il suo successo
+### Effetto della Runa Kenaz Rovesciata
+Ogni volta che il personaggio effettua con successo un tiro salvezza, un attacco o una prova di abilità, dispone di svantaggio al tiro successivo delle stesso tipo
 
+## 🪶 Effetto del glifo
+Kenaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 1]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Punizione incandescente]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio ha vantaggio a tutte le prove di Religione quando è a contatto con un terreno naturale o un albero
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio scoppia di vitalità, dimentica paure e preoccupazioni. Si sentirà sempre più attratto dall'ardore della battaglia, tanto da cercare il continuo conflitto.
+* *Estetico*: Il personaggio appare arrossato e spesso madido di sudore, come dopo un intenso sforzo. Nei suoi occhi é celata la fiamma, pronta a manifestarsi con un'esplosione d'ira. 
+
 https://it.wikipedia.org/wiki/Raido
 <!-- secret:end -->  
 
@@ -241,8 +272,6 @@ https://it.wikipedia.org/wiki/Raido
 
 # ᚷ Gebo
 ## Il dono
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -256,10 +285,23 @@ https://it.wikipedia.org/wiki/Raido
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+Il personaggio si sente un tutt'uno con la natura che lo circonda, percepisce una rete infinita di relazioni e interdipendenze che abbracciano e legano l'uno con l'altro anche gli uomini
+### Effetto della Runa Gebo
+Il personaggio dispone di vantaggio in tutte le prove di Carisma, e ogni qualvolta un alleato a lui adiacente subisce danno, il personaggio subisce un quarto di quel danno al posto suo (il danno che il personaggio subisce non possono essere ridotto, resistito o annullato in nessun dono)
 
-<!-- secret:start -->
+## 🪶 Effetto del glifo
+Gebo è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 1]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Benedizione]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Quando il personaggio dona qualcosa a qualcuno, aggiunge la propria competenza a tutte le prove sociali di quella persona. Questo effetto termina con il prossimo riposo breve.
+<!-- secret:start --> 
+* *Interpretativo*: Il personaggio non può trattenersi dallo stimare chiunque in base alla sua generosità, trovando invece fastidioso che ha comportamenti avari e meschini.
+* *Estetico*: Il personaggio appare molto generoso, ogni suo dono guadagna una patina di mirabile valore
+
+
 https://it.wikipedia.org/wiki/Gebo
 <!-- secret:end -->  
 
@@ -267,8 +309,6 @@ https://it.wikipedia.org/wiki/Gebo
 
 # ᚹ Wunjo
 ## Gioia e realizzazione
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -284,10 +324,26 @@ https://it.wikipedia.org/wiki/Gebo
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Freya
+ Il sole splende splende più forte quest'oggi, colmando di gioia e fiducia il cuore degli uomini, che si spronano a vicenda 
+### Effetto della Runa Wunjo
+Ogni volta che il personaggio effettua un tiro salvezza, può utilizzare il modificatore al tiro salvezza di un alleato adiacente, se il modificatore è migliore di quello del personaggio
+### Effetto dell'Ætt di Freya Rovesciata
+Nubi grigie ricoprono il cielo, impedendo al sole di brillare e gettando nello sconforto i cuori degli uomini che si sentono soli e tristi
+### Effetto della Runa Wunjo Rovesciata
+Ogni volta che il personaggio deve effettuare un tiro salvezza, deve utilizzare il modificatore al tiro salvezza di un alleato adiacente se il modificatore è più basso di quello del personaggio
 
+## 🪶 Effetto del glifo
+Wunjo è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Ristorare inferiore]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Quando il personaggio non è affetto da nessuna condizione ed è al massimo dei suoi punti ferita, ha vantaggio su tutte le prove di Religione
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio sembra profondamente soddisfatto delle sue imprese, tanto da mettere in secondo piano qualsiasi preoccupazione, anche quelle che richiederebbero effettivamente delle attenzioni.
+* *Estetico*:  Il personaggio ha un aspetto radioso e spensierato. Anche nel momento più tetro la sua voce è capace di accendere un fare di speranza.
+
 https://it.wikipedia.org/wiki/Wunjo
 <!-- secret:end -->  
 
@@ -295,8 +351,6 @@ https://it.wikipedia.org/wiki/Wunjo
 
 # ᚹ Hagalaz
 ## La grandine improvvisa
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -310,10 +364,21 @@ https://it.wikipedia.org/wiki/Wunjo
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
-
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Il personaggio vede che il cammino davanti a lui porterà alla cessazione di tutto ciò che conosce. Oggi è un buon giorno per morire e dimostrare il proprio valore aglio Dei
+### Effetto della Runa Hagalaz
+Il personaggio dispone di svantaggio al primo tipo salvezza contro  morte che effettua ogni volta che il personaggio scende a 0 pf. Tuttavia, ogni volta che supera un tiro salvezza contro morte può spendere un [[Dado Vita]] come se stesse effettuando un riposo breve recuperando immediatamente Pf in base il risultato uscito + il modificatore di Saggezza. Il personaggio deve effettuare un riposo breve per utilizzare nuovamente questa abilità
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Tempesta di nevischio]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Quando il personaggio sbaglia una prova può aggiungere 1d6 a quella successiva. Il personaggio può godere di questo effetto tante volte quanto il suo punteggio di Saggezza per ogni riposo lungo
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio vede un'opputunità nel rompere momentaneamente lo schema,
+* *Estetico*: Il personaggio diventa pallido, la sua pelle gelida come l'inverno stesso, ma nonostante questo sembra non soffrirne
+
 https://it.wikipedia.org/wiki/Haglaz
 <!-- secret:end -->  
 
@@ -321,8 +386,6 @@ https://it.wikipedia.org/wiki/Haglaz
 
 # ᚾ Nauthiz
 ## La fiamma della necessità
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -336,10 +399,20 @@ https://it.wikipedia.org/wiki/Haglaz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
-
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Grandi avversità si presentano sul cammino del personaggio, la risolutezza del suo animo è pronta ad affrontare qualsiasi cosa il Fato abbia in serbo.
+### Effetto della Runa Nauthiz
+Ogni volta che un alleato entro 9m (30 ft) che il personaggio può vedere scende a 0 pf, il personaggio ottiene immediatamente pf temporanei pari a metà del proprio livello e dispone di vantaggio al prossimo tiro salvezza che viene effettuato entro il prossimo turno. Deve completare un tiro riposo breve per riutilizzare questa capacità. 
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Fondersi nella pietra]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio ottiene vantaggio a tutte le prove di Intuizione atte ad individuare e smascherare una menzogna 
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio è sempre preoccupato per la soddisfazione dei suoi bisogni primari. Teme fame, freddo e mancanza di riposo.
+
 https://it.wikipedia.org/wiki/Naudiz
 <!-- secret:end -->  
 
@@ -347,8 +420,6 @@ https://it.wikipedia.org/wiki/Naudiz
 
 # ᛁ Isa
 ## Il mare ghiacciato
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -362,10 +433,21 @@ https://it.wikipedia.org/wiki/Naudiz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
-
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+L'immediata presa di coscienza di come al mondo siamo tutti soli e alla deriva assale il personaggio. Un momento di introspezione e rivalutazione del significato della sua esistenza  
+### Effetto della Runa Isa
+Quando il personaggio scende a 0 Pf, può può effettuare dei tiri salvezza contro morte utilizzando il suo modificatore di Saggezza per superare il tiro.
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Passo velato]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio ignora gli effetti del primo livello di affaticamento, se a causarlo è il freddo. Ha inoltre vantaggio alle prove di [[Atletica]] se si trova a dover passare brevemente un tratto di acque gelide
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio è sempre a proprio agio sotto le intemperie o in situazioni di freddo estremo. La sua attenzione è rivolta verso la contemplazione degli elementi e tende ad isolarsi dai compagni.
+* *Estetico*: Quando il personaggio tocca pozzanghere e bassi rigagnoli l; acqua ghiaccia sotto i suoi piedi.
+
 https://it.wikipedia.org/wiki/Isaz
 <!-- secret:end -->  
 
@@ -373,8 +455,6 @@ https://it.wikipedia.org/wiki/Isaz
 
 # ᛃ Jera
 ## La ruota dell'anno
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -388,10 +468,21 @@ https://it.wikipedia.org/wiki/Isaz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
-
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Il personaggio ha una visione della ciclicità dell'esistenza, capendo come per ogni fiore che avvizzisce, una nuova vita sgorga altrove.
+### Effetto della Runa Jera
+Quando il personaggio scende a 0 pf, dispone di svantaggio al suo primo tiro salvezza contro morte, ma ogni alleato in 9m (30 ft) ottiene immediatamente 1d6 punti ferita (che diventano 2d6 al liv. 5, 3d6 al liv. 11, 4d6 al liv. 17 e 5d6 al livello 20). Il personaggio deve completare un riposo breve per riutilizzare questa capacità.
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Velocità]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: il personaggio può, durante un riposo lungo, interrogarsi sugli eventi del passato e ottenere sogni o visioni su di esso, a discrezione del DM
 <!-- secret:start -->
+* *Interpretativo*: Il personaggio raggiunge la consapevolezza di ciò che è stato e ciò che sarà, rendendolo visionario e fatalista
+* *Estetico*: Quando il personaggio ha una visione o un sogno i suoi occhi si illuminano come stelle ruotando all'indietro, il suo corpo invece si ricopre di un velo di luce d'orata 
+
 https://it.wikipedia.org/wiki/Jeran
 <!-- secret:end -->  
 
@@ -399,8 +490,6 @@ https://it.wikipedia.org/wiki/Jeran
 
 # ᛇ Eihwaz
 ## L'albero del mondo
-
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -414,10 +503,24 @@ https://it.wikipedia.org/wiki/Jeran
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Le distanze nel tempo e nello spazio sono diventate brevi e irrisorie per chi è in grado di viaggiare con la mente e lo spirito anziché il proprio corpo
 
+### Effetto della Runa Eihwaz
+Quando un personaggio subisce danno può decidere di ignorarlo per qualche instante. Come Reazione, può rimandare quel danno alla fine del suo prossimo turno.
+Alla fine del prossimo turno, il personaggio subirà il danno e la sua velocità di movimento sarà dimezzata per un round. Il personaggio deve effettuare un riposo breve prima di poter riutilizzare questa capacità
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Chiaroveggenza]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio a tutte le prove di [[Religione]] quando è a contatto con un terreno naturale o un albero
 <!-- secret:start -->
+* *Interpretativo*: il personagg
+* *Estetico*: 
+
 https://it.wikipedia.org/wiki/Jeran
 <!-- secret:end -->  
 
@@ -426,7 +529,6 @@ https://it.wikipedia.org/wiki/Jeran
 # ᛈ Pertho
 ## La gioia del dischiudersi
 
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -442,10 +544,29 @@ https://it.wikipedia.org/wiki/Jeran
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Uno stato di profonda meditazione ha concesso al personaggio di comprendere a fondo il senso della vita, questo gli dona una gioia viscerale 
 
+### Effetto della Runa Pertho
+Ogni volta che il personaggio effettua un 1 naturale su un tiro per colpire o un d20 test può considerarlo come un 10
+
+### Effetto dell'Ætt di Heimdallr Rovesciata
+Lo stato di profonda meditazione non ha portato i frutti sperati o ha interpretato male i segnali ricevuti portandolo a un enorme stato di sconforto
+
+### Effetto della Runa Pertho Rovesciata
+Ogni volta che il personaggio effettua un 20 naturale su un tiro per colpire o un d20 test deve essere considerarlo come un 10. Se si tratta di un tiro per colpire e va comunque a segno, viene considerato comunque come danno critico
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Faro di speranza]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio, una volta per riposo lungo, può fare un discorso da condottiero, che sulla strategia da adottare nel combattimento. Le sue parole influenzano fino a sei creature attorno a lui, conferendo loro un singolo utilizzo di 1d6 ad un tiro salvezza o tiro per colpire
 <!-- secret:start -->
+* *Interpretativo*: 
+* *Estetico*: 
+
 https://it.wikipedia.org/wiki/Per%C3%BEo
 <!-- secret:end -->  
 
@@ -453,7 +574,7 @@ https://it.wikipedia.org/wiki/Per%C3%BEo
 
 # ᛉ Algiz
 ## I palchi dell'alce
-> [!important] mettere immagine qui  
+
 
 <table class="centered vichinga">
    <tr>
@@ -469,10 +590,29 @@ https://it.wikipedia.org/wiki/Per%C3%BEo
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Aprendo le porte del suo spirito e della sua mente ad una dimensione superiore il personaggio riesce ad entrare in contatto con le entità che manovrano il destino dei mortali. Se dovessero rivelarsi favorevoli ripagheranno il personaggio e la sua fede
 
+### Effetto della Runa Algiz
+Quando subisce un colpo critico il personaggio ottiene resistenza a quell'attacco. Il personaggio deve effettuare un riposo breve per poter riutilizzare questa abilità
+
+### Effetto dell'Ætt di Heimdallr Rovesciata
+Con forza il personaggio cerca a tutti i costi di spingere il suo spirito la dove si celano segreti del cosmo, attirando su di se le ire delle divinità 
+
+### Effetto della Runa Algiz Rovesciata
+Ogni volta che viene effettuato un tiro per colpire dispone di di vantaggio contro il personaggio, quell'attacco infligge 1d6 aggiuntivo
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Animale messaggero]] (includendo anche lupi, cervi)
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio alle prove di [[Addestrare animali]] e [[Sopravvivenza]]. Inoltre gli animali non possono coglierlo di sorpresa.
 <!-- secret:start -->
+* *Interpretativo*: 
+* *Estetico*: 
+
 https://it.wikipedia.org/wiki/Algiz
 <!-- secret:end -->  
 
@@ -480,28 +620,24 @@ https://it.wikipedia.org/wiki/Algiz
 
 # ᛋ Sowelu
 ## Energia splendente
-> [!important] mettere immagine qui  
 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Heimdallr
+Il viaggio del suo IO è stato arduo, ma ora il personaggio si trova davanti alla sua ultima scelta: diventare Onorevole o Disonorevole? Si sente fremere ma sa che qualunque scelta lui prenda sarà quella giusta
+
+### Effetto della Runa Sowelu
+Quando il personaggio subisce danno per mano di una creatura può spendere la sua Reazione per spendere un numero di dadi vita per ridurre il danno subito pari alla somma del risultato del lancio e il suo modificatore di Saggezza, infliggendo danno radioso o necrotico a quella creatura di pari misura. Il numero di dadi vita spendibili con questa abilità è pari alla metà dei dadi vita rimanenti (minimo 1). Il personaggio deve effettuare un riposo breve per utilizzare utilizzare nuovamente questa capacità 
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Luce diurna]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: La prima volta dopo un riposo lungo che il personaggio subisce danni da freddo può applicare resistenza
 <!-- secret:start -->
-<table class="centered vichinga">
-   <tr>
-    <th colspan="2">Significato Divinatorio</th>
-  </tr>
-  <tr>
-    <th>DRITTA</th>
-    <th>ROVESCIATA</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  </table>
-  <!-- secret:end -->  
+* *Interpretativo*: 
+* *Estetico*: 
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
-
-<!-- secret:start -->
 https://it.wikipedia.org/wiki/Sowilo
 <!-- secret:end -->  
 
@@ -509,7 +645,6 @@ https://it.wikipedia.org/wiki/Sowilo
 
 # ᛏ Tiwaz
 ## La lancia del giusto
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -525,10 +660,29 @@ https://it.wikipedia.org/wiki/Sowilo
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+Il personaggio sa che oggi camminerà con passo sicure e deciso, guidato dal fato che lo protegge
 
+### Effetto della Runa Tiwaz
+Quando il personaggio mette a segno un colpo critico, può spendere la sua Reazione per compiere un singolo attacco con armi o utilizzare un trucchetto che richieda un tiro per colpire
+
+### Effetto dell'Ætt di Tyr Rovesciata
+Ci vuole poco perché il coraggio diventi boria, il sentimento di proteggere diventi superiorità, che la forza diventi prepotenza
+
+### Effetto della Runa Tiwaz Rovesciata
+Quando il personaggio subisce un attacco critico deve superare un tiro salvezza su Carisma con CD pari alla metà del danno appena ricevuto. Se fallisce è incapacitato fino al prossimo turno
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Arma magica]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio a tutti gli attacchi di opportunità
 <!-- secret:start -->
+* *Interpretativo*: 
+* *Estetico*: 
+
 https://it.wikipedia.org/wiki/Tiwaz
 <!-- secret:end -->  
 
@@ -536,7 +690,6 @@ https://it.wikipedia.org/wiki/Tiwaz
 
 # ᛒ Berkana
 ## La bianca betulla
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -552,10 +705,29 @@ https://it.wikipedia.org/wiki/Tiwaz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+Oggi, ovunque si posi lo sguardo del personaggio, egli vede fertilità e nuova vita sgorgare dolce e prepotente
 
+### Effetto della Runa Berkana
+Il personaggio come Azione può curare ogni creatura in 3m di 1d6 + CAR pf fino alla metà dei loro punti massimi. Il personaggio deve effettuare un riposo breve per poter utilizzare nuovamente questa capacità
+
+### Effetto dell'Ætt di Tyr Rovesciata
+Come un frutto acerbo colto troppo presto, il personaggio vede la sua inadeguatezza confrontata con tutto ciò che cresce rigoglioso e forte intorno a se
+
+### Effetto della Runa Berkana Rovesciata
+Come azione Bonus il personaggio può spendere dado vita per recuperare punti ferita come se fosse un riposo breve. Tuttavia, ogni volta che si spende un dado vita dimezza il risultato ottenuto dai dadi prima di recuperare la vita
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Pelle coriacea]] trasformando la pelle in corteccia di betulla
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio alle prove di Medicina e usa metà degli ingredienti e dei componenti per ogni azione di cura
 <!-- secret:start -->
+* *Interpretativo*: 
+* *Estetico*: 
+
 https://it.wikipedia.org/wiki/Berkanan
 <!-- secret:end -->  
 
@@ -563,7 +735,6 @@ https://it.wikipedia.org/wiki/Berkanan
 
 # ᛖ Ehwaz
 ## Il cavallo
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -579,9 +750,25 @@ https://it.wikipedia.org/wiki/Berkanan
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+### Effetto dell'Ætt di Tyr
+Il suo sguardo riesce a cogliere le interazioni e le connessioni tra le cose, le creature e la natura. Il mondo è più della somma delle sue parti, e lo stesso vale per il personaggio
 
+### Effetto della Runa Ehwaz
+Durante il riposo breve, il personaggio e fino a 6 alleati possono stringersi le mani e meditare con comunione per 1 ora. Chi è occupato a meditare non può fare la guardia e ha svantaggio a prove di percezione.
+Per ogni dado vita speso per recuperare pf, un alleato recupera punti ferita addizionali pari al modificatore di Saggezza del personaggio (minimo 1). Il personaggio invece recupera pf addizionali in base a quanti personaggi partecipano
+
+### Effetto dell'Ætt di Tyr Rovesciata
+Per quanto si sforzi, il giocatore percepisce il contrasto infinito che lo circonda
+
+### Effetto della Runa Berkana Ehwaz
+Ogni volta che il personaggio deve tirare iniziativa, può spendere dadi vita per ottenere un bonus alla prova di Iniziativa
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Tova cavalcatura]] 
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio a tutte le prove di Sopravvivenza. Quando si trova su una cavalcatura non può essere sorpreso
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Ehwaz
 <!-- secret:end -->  
