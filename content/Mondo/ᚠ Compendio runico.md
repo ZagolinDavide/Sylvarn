@@ -777,7 +777,6 @@ https://it.wikipedia.org/wiki/Ehwaz
 
 # ᛗ Mannaz
 ## L'umana solidarietà
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -793,9 +792,27 @@ https://it.wikipedia.org/wiki/Ehwaz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## ## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+In un momento di rivelazione capisce di essere al centro del mondo e il mondo è al centro di se stesso 
 
+### Effetto della Runa Mannaz
+Come Reazione quando deve effettuare un tiro salvezza contro un effetto che può percepire, il personaggio può disporre vantaggio ai tiri salvezza. Una volta utilizzata il personaggio deve effettuare un riposo breve per poter utilizzare nuovamente questa abilità
+
+### Effetto dell'Ætt di Tyr Rovesciata
+Il personaggio si sente perso, si chiede chi sia e il senso della vita stessa, sentendosi privo di scopo.
+
+### Effetto della Runa Mannaz Rovesciata
+Ogni volta che il personaggio infligge danno, ne infligge uno extra dello stesso tipo se il bersaglio ha più punti ferita del personaggio attaccato. Il danno extra aumenta in base al livello:
+- Lv. 11: 2 
+- Lv. 20: 3
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 2]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Calmare emozioni]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio ai tiri salvezza su Saggezza e Carusna
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Mannaz
 <!-- secret:end -->  
