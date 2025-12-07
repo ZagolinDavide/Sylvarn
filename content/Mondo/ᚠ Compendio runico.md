@@ -1,4 +1,3 @@
-#TODO 
 
 > Tratto dal manuale [[🪓 Norse Grimoire|Norse Grimoire]]
 
@@ -278,9 +277,6 @@ https://it.wikipedia.org/wiki/Raido
     <th>Significato Divinatorio</th>
   </tr>
   <tr>
-    <th></th>
-  </tr>
-  <tr>
     <td>Amicizia, fratellanza, condivisione, scambio, gratitudine</td>
   </tr>
   </table>
@@ -357,9 +353,6 @@ https://it.wikipedia.org/wiki/Wunjo
     <th>Significato Divinatorio</th>
   </tr>
   <tr>
-    <th></th>
-  </tr>
-  <tr>
     <td>Purificazione, prove, percorso stabilito, liberazione, ricostruzione</td>
   </tr>
   </table>
@@ -392,9 +385,6 @@ https://it.wikipedia.org/wiki/Haglaz
     <th>Significato Divinatorio</th>
   </tr>
   <tr>
-    <th></th>
-  </tr>
-  <tr>
     <td>Resistenza, virtù, determinazione, forza interiore</td>
   </tr>
   </table>
@@ -424,9 +414,6 @@ https://it.wikipedia.org/wiki/Naudiz
 <table class="centered vichinga">
    <tr>
     <th>Significato Divinatorio</th>
-  </tr>
-  <tr>
-    <th></th>
   </tr>
   <tr>
     <td>Momento di riflessione, focalizzazione di obbiettivi, separazione, limitazioni</td>
@@ -461,9 +448,6 @@ https://it.wikipedia.org/wiki/Isaz
     <th>Significato Divinatorio</th>
   </tr>
   <tr>
-    <th></th>
-  </tr>
-  <tr>
     <td>Ciclicità del tempo, pazienza, controllo, raccolto, processo</td>
   </tr>
   </table>
@@ -494,9 +478,6 @@ https://it.wikipedia.org/wiki/Jeran
 <table class="centered vichinga">
    <tr>
     <th>Significato Divinatorio</th>
-  </tr>
-  <tr>
-    <th></th>
   </tr>
   <tr>
     <td>capacità di difesa, affidabilità, intelligenza, capacità di prevenire</td>
@@ -792,7 +773,7 @@ https://it.wikipedia.org/wiki/Ehwaz
   </tr>
   </table>
 
-## ## 🧭 Effetto della runa guida
+## 🧭 Effetto della runa guida
 ### Effetto dell'Ætt di Tyr
 In un momento di rivelazione capisce di essere al centro del mondo e il mondo è al centro di se stesso 
 
@@ -812,7 +793,7 @@ Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|liv
 ### Effetto temporaneo del tatuaggio
 Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Calmare emozioni]]
 ### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
-* *Meccanico*: Il personaggio gode di vantaggio ai tiri salvezza su Saggezza e Carusna
+* *Meccanico*: Il personaggio gode di vantaggio ai tiri salvezza su Saggezza e Carisma
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Mannaz
 <!-- secret:end -->  
@@ -821,23 +802,28 @@ https://it.wikipedia.org/wiki/Mannaz
 
 # ᛚ Laguz
 ## Le acque dell'inconscio
-> [!important] mettere immagine qui  
 
-<table class="centered vichinga">
-   <tr>
-    <th>Significato Divinatorio</th>
-  </tr>
-  <tr>
-    <th></th>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  </table>
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+Il suo occhio interiore riesce a cogliere la realtà sottostante al mondo materiale, tutto risulta simbolo, tutto risulta segno e anche il personaggio oggi riesce a capire meglio il mondo
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+### Effetto della Runa Laguz
+Il giocatore può lanciare l'incantesimo [[Presagio]] una volta come rituale, senza la necessità di componenti materiali.
+Dal livello 11, può inoltre lanciare l'incantesimo [[Divinazione]] come rituale, senza la necessità di componenti materiali.
 
+### Effetto dell'Ætt di Tyr Rovesciata
+Il personaggio ha cercato di spingere la sua coscienza al di là del mondo materiale per capirne l'essenza ma ne è rimasto deluso. 
+Tutto appare grigio e senza spessore, per questo motivo il personaggio si sente inquieto e perso
+
+### Effetto della Runa Laguz Rovesciata
+Quando inizia un combattimento il personaggio é considerato spaventato nei confronti di ogni creatura ostile che riesce a vedere o sentire. Questa condizione permane fino all'inizio del prossimo turno
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Protezione dall'energia]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio gode di vantaggio alle prove di Religione quando si trova a contatto con l'acqua. 
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Laguz
 <!-- secret:end -->  
@@ -846,23 +832,29 @@ https://it.wikipedia.org/wiki/Laguz
 
 # ᛝ Ingwaz
 ## L'eredità ancestrale
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
     <th>Significato Divinatorio</th>
   </tr>
   <tr>
-    <th></th>
-  </tr>
-  <tr>
     <td>Sessualità, fertilità, agricoltura, calore umano, abbondanza</td>
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+Il personaggio sente un spinta incredibile venirgli da dentro, primordiale e rigogliosa che lo fa sentire pieno di speranza
 
+### Effetto della Runa Ingwaz
+Come azione bonus il personaggio può spendere uno dei suoi dadi vita per guarire un ammontare di punti ferita pari al risultato dei dadi e il sommando il modificatore di Carisma. Può suddividere la cura con un numero qualsiasi di creature entro 3m. Il personaggio ottiene invece punti ferita temporanei pari alla metà dei punti vita curati in questo modo
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Guardiani spirituali]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Se il personaggio si trova in un insediamento e si comporta in modo onorevole gode di vantaggio alle prove di Intrattenere  
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Ingwaz
 <!-- secret:end -->  
@@ -871,23 +863,31 @@ https://it.wikipedia.org/wiki/Ingwaz
 
 # ᛞ Dagaz
 ## Lo splendore del giorno
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
     <th>Significato Divinatorio</th>
   </tr>
   <tr>
-    <th></th>
-  </tr>
-  <tr>
     <td>Nuovo inizio, speranza, crescita, sicurezza, illuminazione</td>
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+Il personaggio ha una visione che gli mostra mondi e realtà in maniera different dandogli per un instante consapevolezza dell'equilibrio. 
+Ogni cosa appare semplice e affrontabile
 
+### Effetto della Runa Dagaz
+Il personaggio recupera tutti i pf e ottiene pf temporanei pari alla metà dei suoi pf massimi. 
+Ogni volta che termina un riposo breve ottiene pf temporanei pari al suo modificatore di Carisma (minimo 1)
+
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 3]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Lama infuocata]] se è giorno, o [[Bagliore lunare]] se è notte
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio guadagna Scurovisione 6m
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/Dagaz
 <!-- secret:end -->  
@@ -896,7 +896,6 @@ https://it.wikipedia.org/wiki/Dagaz
 
 # ᛟ Othala
 ## La dimora ancestrale
-> [!important] mettere immagine qui  
 
 <table class="centered vichinga">
    <tr>
@@ -912,11 +911,26 @@ https://it.wikipedia.org/wiki/Dagaz
   </tr>
   </table>
 
-## 🏺 Storia e Contesto Culturale
-#TODO 
+## 🧭 Effetto della runa guida
+### Effetto dell'Ætt di Tyr
+Il personaggio per un instante ha una visione sul presente e futuro, consentendogli di riflettere sulle sue azioni
 
+### Effetto della Runa Othala
+Quando il personaggio effettua un tiro per colpire, tiro salvezza o prova di abilità disponendo di vantaggio può ritirare il dado con il risultato inferiore, ma deve tenere il risultato del nuovo dado. 
+Può utilizzare questa capacità un numero di volte pari al modificatore di Carisma (minimo 1)
+
+### Effetto dell'Ætt di Tyr Rovesciata
+Una visione distorta e ingannevole del futuro sconvolge il personaggio, lasciandolo in preda al dubbio e alla sfiducia
+
+### Effetto della Runa Othala Rovesciata
+Quando il personaggio effettua un tiro per colpire, tiro salvezza o prova di abilità disponendo di vantaggio, aggiunge il suo modificatore di Carisma al tiro. Quando invece dispone di svantaggio sottrae il suo modificatore di Carisma. Entrambi con un minimo di 1
+## 🪶 Effetto del glifo
+Hagalaz è una runa di [[🖋️ Tatuaggi, talismani e pitture rituali#Prove|livello 5]]
+### Effetto temporaneo del tatuaggio
+Il personaggio beneficia di un unico utilizzo dell'incantesimo [[Conoscenza delle leggende]]
+### Effetto permanente del tatuaggio, della Runa Talismanica o pittura rituale
+* *Meccanico*: Il personaggio può scegliere si sostituire Religione a tutte le prove di abilità associate al modificatore 
 <!-- secret:start -->
 https://it.wikipedia.org/wiki/O%C3%BEalan
 <!-- secret:end -->  
 
----
