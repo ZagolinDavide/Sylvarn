@@ -59,3 +59,6 @@
 
 ### **Urd, Verdandi e Skuld**
 le tre norne mitologiche che tutto vedono e tutto sanno
+
+#TODO
+Landvaettir

@@ -345,7 +345,7 @@ https://it.wikipedia.org/wiki/Wunjo
 
 ---
 
-# ᚹ Hagalaz
+# ᚺ Hagalaz
 ## La grandine improvvisa
 
 <table class="centered vichinga">

@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>🜂 Galdramaður</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Sylvarn"/><meta property="og:title" content="🜂 Galdramaður"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="🜂 Galdramaður"/><meta name="twitter:description" content="A breve una spiegazione di cosa sono Að stilla alla reiði - placare la rabbia Galdrastafir di 2º livello Tempo di lancio: 1 azione Componenti: V,S (un glifo tracciato sulla fronte) Gittata: Contatto Durata: Concentrazione, fino 1 minuto Il personaggio dispone di vantaggio a un tiro per colpire, un t..."/><meta property="og:description" content="A breve una spiegazione di cosa sono Að stilla alla reiði - placare la rabbia Galdrastafir di 2º livello Tempo di lancio: 1 azione Componenti: V,S (un glifo tracciato sulla fronte) Gittata: Contatto Durata: Concentrazione, fino 1 minuto Il personaggio dispone di vantaggio a un tiro per colpire, un t..."/><meta property="og:image:alt" content="A breve una spiegazione di cosa sono Að stilla alla reiði - placare la rabbia Galdrastafir di 2º livello Tempo di lancio: 1 azione Componenti: V,S (un glifo tracciato sulla fronte) Gittata: Contatto Durata: Concentrazione, fino 1 minuto Il personaggio dispone di vantaggio a un tiro per colpire, un t..."/><meta property="twitter:domain" content="quartz.jzhao.xyz"/><meta property="og:url" content="https://quartz.jzhao.xyz/Mondo/🜂-Galdramaður"/><meta property="twitter:url" content="https://quartz.jzhao.xyz/Mondo/🜂-Galdramaður"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="A breve una spiegazione di cosa sono Að stilla alla reiði - placare la rabbia Galdrastafir di 2º livello Tempo di lancio: 1 azione Componenti: V,S (un glifo tracciato sulla fronte) Gittata: Contatto Durata: Concentrazione, fino 1 minuto Il personaggio dispone di vantaggio a un tiro per colpire, un t..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiRDpcXERldlxcU3lsdmFyblxccXVhcnR6XFxjb21wb25lbnRzXFxzdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://quartz.jzhao.xyz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://quartz.jzhao.xyz/Mondo/🜂-Galdramaður-og-image.webp"/><meta property="og:image:url" content="https://quartz.jzhao.xyz/Mondo/🜂-Galdramaður-og-image.webp"/><meta name="twitter:image" content="https://quartz.jzhao.xyz/Mondo/🜂-Galdramaður-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Mondo/🜂-Galdramaður"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Sylvarn</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-98"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-98" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Mondo/">Mondo</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>🜂 Galdramaður</a></div></nav><h1 class="article-title">🜂 Galdramaður</h1><p show-comma="true" class="content-meta"><time datetime="2025-12-09T19:14:54.872Z">09 dic 2025</time><span>19 minuti</span></p></div></div><article class="popover-hint"><p>A breve una spiegazione di cosa sono</p>
+<hr/>
+<h1 id="að-stilla-alla-reiði---placare-la-rabbia">Að stilla alla reiði - placare la rabbia<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#að-stilla-alla-reiði---placare-la-rabbia" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 2º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (un glifo tracciato sulla fronte)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Concentrazione, fino 1 minuto</p>
+<p>Il personaggio dispone di vantaggio a un tiro per colpire, un tiro salvezza o una prova di abilità. Quando utilizza questo glifo si cura di 2d8 punti ferita
+<strong>Ai livelli superiori</strong>: Quando l’incatatore lancia l’incantesimo con uno slot superiore, la guarigione aumenta di 1d8 per ogni livello di slot superiore al 2º</p>
+<h4 id="effetto-temporaneo-del-tatuaggio">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Að stilla alla reiði</p>
+<h4 id="effetto-permanete-del-tatuaggio">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Að stilla alla reiði si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="ægishjálmur---elmo-del-terrore">Ægishjálmur - elmo del terrore<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ægishjálmur---elmo-del-terrore" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir trucchetto</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (un glifo tracciato sulla fronte)
+<strong>Gittata:</strong> Se stesso
+<strong>Durata:</strong> Concentrazione, fino 1 minuto</p>
+<p>l’incantatore sceglie una creatura entro 9m che deve effettuare un tiro salvezza su Saggezza, se lo fallisce sarà spaventata per la durata dell’incantesimo. Se la creatura attacca l’incantatore, l’effetto termina</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-1">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Ægishjálmur</p>
+<h4 id="effetto-permanete-del-tatuaggio-1">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Ægishjálmur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="ægisskjoldur---il-grande-scudo-del-terrore">Ægisskjoldur - il grande scudo del terrore<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ægisskjoldur---il-grande-scudo-del-terrore" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 8º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> S,M (supporto per scrittura)
+<strong>Gittata:</strong> Se stesso
+<strong>Durata:</strong> 24h</p>
+<p>Dopo l’attivazione una runa fluttuate protegge il portatore per la durata dell’incantesimo.
+La prima volta che una creatura colpisce l’incantatore con un attacco in mischia, l’illusione di un drago esce dalla runa e la creatura deve effettuare un tiro salvezza su Saggezza o subire 12d6 danni psichici ed essere spaventata ed incapacitata per un minuto.
+Se la creatura supera il tiro salvezza subisce solo la metà del danno e non subisce altri condizioni</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-2">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-2" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Ægisskjoldur</p>
+<h4 id="effetto-permanete-del-tatuaggio-2">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-2" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Ægisskjoldur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="ástarrósin---la-rosa-dellamore">Ástarrósin - la rosa dell’amore<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ástarrósin---la-rosa-dellamore" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 1º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (un glifo tracciato con il sangue)
+<strong>Gittata:</strong> 15m
+<strong>Durata:</strong> Istantanea</p>
+<p>La creatura bersaglio deve effettuare un tiro salvezza su Saggezza, deve spendere la sua Reazione per avvicinarsi all’incantatore rimanendo ammaliato per la durata dell’incantesimo.
+Se il bersaglio finisce il suo movimento entro 1,5m dall’incantatore, il bersaglio subisce 3d6 danni psichici</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-3">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-3" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Ástarrósin</p>
+<h4 id="effetto-permanete-del-tatuaggio-3">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-3" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Ástarrósin si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="astros---contro-la-stregoneria">Astros - contro la stregoneria<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#astros---contro-la-stregoneria" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 2º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (un glifo tracciato su una superficie)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Istantanea</p>
+<p>L’incatatore delimita un’area con questo glifo.
+Questo glifo influenza tutte le rune e tutti i simboli incisi o disegnati. L’incantatore sceglie una runa, un glifo o un simbolo con potere magico, questo termina se veicola un incantesimo di 2º livello o inferiore. Se invece veicola un incantesimo di 3º livello o superiore, l’incantatore deve effettuare un tiro sulla sua caratteristica di incantatore con CD 10 + Livello dell’incantesimo per terminare l’effetto.
+<strong>Ai livelli superiori:</strong> Quando l’incantatore lancia questo incantesimo con un slot di 3º livello o superiore, può porre fine a tutti gli incantesimi con pari livello o inferiore</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-4">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-4" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Astros</p>
+<h4 id="effetto-permanete-del-tatuaggio-4">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-4" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Astros si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="augnaᚦurs---occhio-del-gigante">Augnaᚦurs - occhio del gigante<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#augnaᚦurs---occhio-del-gigante" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 6º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Concentrazione, fino a 1h</p>
+<p>Quando l’incantatore traccia questo glifo su un oggetto diventa invisibile per la durata dell’incantesimo. Se qualcuno dovesse provare a cercare l’oggetto senza sapere dove si trovi ha svantaggio a tutte le prove di caratteristica per cercarlo.
+Se invece qualcuno prova ad effettuare una ricerca magica per trovare o percepire l’oggetto, deve superare un tiro salvezza su Saggezza con CD basato su chi ha tracciato il glifo</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-5">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-5" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Augnaᚦurs</p>
+<h4 id="effetto-permanete-del-tatuaggio-5">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-5" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Augnaᚦurs si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="brýnslustafir---per-una-lama-ben-affilata">Brýnslustafir - per una lama ben affilata<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#brýnslustafir---per-una-lama-ben-affilata" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 2º livello</em>
+<strong>Tempo di lancio:</strong> 1 minuto
+<strong>Componenti:</strong> S (glifo sulla cote di affilatura)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> 1h</p>
+<p>Quando l’incantatore incide questo glifo su una cote questa si ricopre di una luce argentata, fino a quando questa non viene utilizzata e il glifo scompare.
+Quando viene inflitto un colpo critico con la lama affilata dalla cote può essere tirato un dado aggiuntivo per il danno.
+<strong>Ai livelli superiori:</strong> l’arma infligge un dado di danno aggiuntivo per ogni DUE livelli sopra il secondo</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-6">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-6" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Brýnslustafir</p>
+<h4 id="effetto-permanete-del-tatuaggio-6">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-6" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Brýnslustafir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="draugastefna---per-bandire-i-draugar">Draugastefna - per bandire i Draugar<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#draugastefna---per-bandire-i-draugar" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 3º livello</em>
+<strong>Tempo di lancio:</strong> 1 minuto
+<strong>Componenti:</strong> V,S
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> 1m</p>
+<p>La creatura toccata dall’incantatore guadagna resistenza ai danni necrotici e diventa immune a malattie e maledizioni per la durata dell’incantesimo.
+Quando l’incantesimo viene lanciato o ad ogni inizio turno dell’incantatore, ogni non morto che é in grado di vedere o sentire la creatura bersaglio entro 9m deve effettuare un tiro salvezza su Saggezza. Se lo fallisce deve utilizzare la propria reazione per spostarsi del suo movimento dalla creatura</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-7">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-7" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Draugastefna</p>
+<h4 id="effetto-permanete-del-tatuaggio-7">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-7" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Draugastefna si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="draumstafir---simboli-dei-sogni">Draumstafir - simboli dei sogni<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#draumstafir---simboli-dei-sogni" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 4º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (glifo tracciato su pelle candida)
+<strong>Gittata:</strong> Incantatore
+<strong>Durata:</strong> 1 settima</p>
+<p>Durante la durata dell’incantesimo quando l’incantatore deve effettuare un tiro per colpire, un tiro salvezza o una prova di abilità può spendere un dado vita per tirare con vantaggio. Il massimo dei dati vita che possono essere spesi in questo modo durante tutta la durata dell’incantesimo è della metà del livello dell’incantatore</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-8">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-8" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Draumstafir</p>
+<h4 id="effetto-permanete-del-tatuaggio-8">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-8" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Draumstafir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="fengur---amore-e-fertilità">Fengur - amore e fertilità<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fengur---amore-e-fertilità" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 3º livello</em>
+<strong>Tempo di lancio:</strong> 1 minuto
+<strong>Componenti:</strong> V,S (glifo tracciato o inciso su una pietanza)
+<strong>Gittata:</strong> 9m
+<strong>Durata:</strong> Concentrazione, fino a 1h</p>
+<p>Le creature a scelta dell’incantore all’interno del raggio di azione vengono pervase da un indescrivibile senso di sollievo e guadagnano 3d10 punti ferita temporanei, diventando immuni agli effetti di affaticamento per la durata dell’incantesimo</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-9">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-9" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Fengur</p>
+<h4 id="effetto-permanete-del-tatuaggio-9">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-9" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Fengur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="galdratöluskip---amore-e-fertilità">Galdratöluskip - amore e fertilità<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#galdratöluskip---amore-e-fertilità" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 5º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (glifo tracciato o inciso su una superficie)
+<strong>Gittata:</strong> 150m
+<strong>Durata:</strong> Concentrazione, fino a 1 minuto</p>
+<p>Quando l’incantare traccia questo glifo su una superficie, viene automaticamente trasmesso al bersaglio entro gittata che può essere visto.
+La velocità del veicolo bersaglio diventa 0, nei turni successivi al lancio dell’incantesimo può utilizzare la azione per infliggere 6d6 danni da forza.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-10">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-10" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Galdratöluskip</p>
+<h4 id="effetto-permanete-del-tatuaggio-10">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-10" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Galdratöluskip si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="gandreiðarstafur---andare-dove-vuoi">Gandreiðarstafur - andare dove vuoi<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gandreiðarstafur---andare-dove-vuoi" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 6º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato o inciso su un teschio di cavallo)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Concentrazione, fino a 1 minuto</p>
+<p>L’incantatore deve fabbricarsi il morso e le redini usando le pelli di un sacrificio. Deve poi bardare il teschi di cavallo su cui è inciso il glifo, utilizzando il sangue di un puledro e dell’incantatore stesso.
+In questo momento la testa di cavallo sarà in grado di prendere vita e diventare un cavallo spettrale che può essere cavalcato per percorrere da 30km per ora a passo normale o volando, fino a un massimo di 40km per ora quando il passo è sostenuto</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-11">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-11" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Gandreiðarstafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-11">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-11" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Gandreiðarstafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="gapaldur--ginfaxi---vincere-nella-lotta">Gapaldur &amp; Ginfaxi - vincere nella lotta<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gapaldur--ginfaxi---vincere-nella-lotta" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 1º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> S (due glifi tracciati sotto i piedi)
+<strong>Gittata:</strong> Personale
+<strong>Durata:</strong> 1 minuto</p>
+<p><em>Gapaldur</em> deve essere inciso sotto il tallone del piede destro, mentre <em>Ginfaxi</em> appena sotto le dita del piede sinistro.
+facendo perno sui glifi, l’incantatore può sferrare un colpo potente utilizzando tutto il proprio corpo, costringendo il bersaglio ad effettuare un tiro salvezza su Costituzione o viene scagliato di 6m e subisce 3d8 danni contundenti.
+<strong>Ai livelli superiori</strong>: Quando l’incantore lancia questo incantesimo con uno slot di livello 2 o superiore aggiunge 1d8 ai danni per livello di slot incantesimo speso oltre il secondo</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-12">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-12" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Gapaldur &amp; Ginfaxi</p>
+<h4 id="effetto-permanete-del-tatuaggio-12">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-12" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Gapaldur &amp; Ginfaxi si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="hríðarbylurstafur---chiamare-la-tempesta">Hríðarbylurstafur - chiamare la tempesta<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hríðarbylurstafur---chiamare-la-tempesta" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 3º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (un glifo tracciato su un tessuto)
+<strong>Gittata:</strong> Personale (18m)
+<strong>Durata:</strong> Concentrazione, fino a 1 minuto</p>
+<p>L’incantatore chiama la tempesta scuotendo il tessuto su cui è inciso il glifo, evocando istantaneamente una violenta tempesta.
+Tutte le creature nell’area di effetto dell’incantesimo devono effettuare un tiro salvezza su Forza o finiscono prone.
+Per la durata dell’incantesimo, l’area è considerata terreno difficile.
+Tutti gli attacchi a distanza che bersagliano un obiettivo all’interno dell’area hanno svantaggio.
+Se l’incantatore utilizza questo incantesimo in mare aperto, la sua gittata aumenta a 1 miglio</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-13">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-13" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Hríðarbylurstafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-13">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-13" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Hríðarbylurstafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="hulinshjálmur---elmo-dellinvisibilità">Hulinshjálmur - elmo dell’invisibilità<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hulinshjálmur---elmo-dellinvisibilità" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 1º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S
+<strong>Gittata:</strong> Personale
+<strong>Durata:</strong> 1 turno</p>
+<p>Quando l’incantesimo viene lanciato una nube simile alle nuvole circonda l’incantatore e quando si disperdono l’incantatore si disperde con loro diventando invisibile. Anche le cose che porta con se o indossa diventano invisibili.
+L’invisibilità dura fino alla fine del prossimo turno a meno che non venga eseguito un attacco o lanciato un secondo incantesimo.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-14">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-14" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Hulinshjálmur</p>
+<h4 id="effetto-permanete-del-tatuaggio-14">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-14" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Hulinshjálmur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="kaupaloki---sigillo-del-patto">Kaupaloki - sigillo del patto<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kaupaloki---sigillo-del-patto" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir trucchetto</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> S (un glifo tracciato su ciascun palmo delle mani)
+<strong>Gittata:</strong> Personale
+<strong>Durata:</strong> 10 minuti</p>
+<p>L’incantatore dispone di vantaggio sulle prove di Carisma effettuate per trattare sul prezzo di un bene che vuole vendere o acquistare. Fallire una prova mentre questo incantesimo è attivo questo non influenzerà negativamente l’atteggiamento della persona nei suoi confronti</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-15">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-15" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Kaupaloki</p>
+<h4 id="effetto-permanete-del-tatuaggio-15">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-15" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Kaupaloki si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="lásabrjótur---aprire-tutte-le-porte">Lásabrjótur - aprire tutte le porte<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lásabrjótur---aprire-tutte-le-porte" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 4º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (un glifo tracciato sull’oggetto da aprire)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Istantanea</p>
+<p>L’incantatore deve tracciare il glifo su un lucchetto o un oggetto chiuso e pronunciare una formula magica, e al suo termine l’oggetto si apre.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-16">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-16" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Lásabrjótur</p>
+<h4 id="effetto-permanete-del-tatuaggio-16">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-16" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Lásabrjótur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="líffstafur---simbolo-della-vita">Líffstafur - simbolo della vita<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#líffstafur---simbolo-della-vita" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 5º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,M,S (glifo inciso sul legno)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Istantanea</p>
+<p>Quando l’incatatore traccia questo glifo è pervaso da una forza sacra guadagnando la capacità di curare gli alleati. La creatura bersaglio recupera punti vita pari a 3d8 più il modificatore di caratteristica. Se la creatura é a 0 punti ferita, le cure vengono raddoppiate</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-17">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-17" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Líffstafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-17">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-17" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Líffstafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="lukkustafir---simbolo-porta-fortuna">Lukkustafir - simbolo porta fortuna<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lukkustafir---simbolo-porta-fortuna" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 7º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V
+<strong>Gittata:</strong> Personale
+<strong>Durata:</strong> 1 minuto</p>
+<p>Quando l’incantatore traccia questo glifo la fortuna lo ricopre. Una volta, prima della fine dell’incantesimo, se un attacco dovesse colpirlo può spendere la sua Reazione per costringere l’attaccante ad effetuare un tiro salvezza su Destrezza. Se il tiro fallisce l’attaccante subisce metà del danno inflitto</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-18">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-18" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Lukkustafir</p>
+<h4 id="effetto-permanete-del-tatuaggio-18">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-18" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Lukkustafir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="missinningarstafur---illusione-di-odino">Missinningarstafur - illusione di Odino<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#missinningarstafur---illusione-di-odino" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 3º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S (glifo tracciato al centro della fronte)
+<strong>Gittata:</strong> Personale
+<strong>Durata:</strong> Concentrazione, fino a 12 ore</p>
+<p>Quando l’incantatore traccia questo glifo é in grado di modificare il suo aspetto e gli oggetti che porta con se.
+Può modificare di 30cm la sua statura, cambiare la sua corporatura e modificare la propria età, ma non può modificare la sua struttura base del corpo (ad esempio non può avere più arti o in posizione differente, …).
+Quando il glifo è attivo l’incantatore dispone di vantaggio alle prove di Inganno e Persuasione per avvalorare la sua identità.
+Se qualcuno vuole smascherare il travestimenti ha svantaggio a tutte le prove.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-19">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-19" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Missinningarstafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-19">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-19" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Missinningarstafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="mót-stefnivargi---contro-i-lupi-e-animali-selvatici">Mót Stefnivargi - contro i lupi e animali selvatici<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mót-stefnivargi---contro-i-lupi-e-animali-selvatici" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 4º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su pelle conciata)
+<strong>Gittata:</strong> sfera di raggio 300m
+<strong>Durata:</strong> 8 ore</p>
+<p>Tracciando questo glifo su pelle conciata, una sfera trasparente ricopre l’incantatore per un raggio massimo di 300m, rimanendo permanentemente in quel punto per la durata.
+Le creature e gli oggetti all’interno di questa area possono attraversare la cupola liberamente, mentre ogni altra creatura vuole entrare nell’area protetta deve effettuare un tiro salvezza di Carisma o viene respinta all’esterno. Le creature con Intelligenza 4 o meno falliscono automaticamente il tiro salvezza</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-20">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-20" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Mót Stefnivargi</p>
+<h4 id="effetto-permanete-del-tatuaggio-20">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-20" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Mót Stefnivargi si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="myrkurstafur---contro-la-paura-del-buio">Myrkurstafur - contro la paura del buio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#myrkurstafur---contro-la-paura-del-buio" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 5º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su un talismano)
+<strong>Gittata:</strong> 18m
+<strong>Durata:</strong> Istantaneo</p>
+<p>Quando l’incantatore attiva il glifo una luce abbagliante ricopre l’area fino a un massimo di 18m a partire dal punto scelto entro gittata dall’incantatore. Tutte le creature all’interno dell’area subiscono 5d6 danni da fuoco e 5d6 danni radiosi.
+Se parte dell’area si sovrappone a una zona di oscurità creata da un incantesimo di 3 livello o inferiore, questo viene dissolto.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-21">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-21" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Myrkurstafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-21">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-21" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Myrkurstafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="óttastafur---incutere-paura-ai-nemici">Óttastafur - incutere paura ai nemici<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#óttastafur---incutere-paura-ai-nemici" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 3º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su tavoletta di legno)
+<strong>Gittata:</strong> 10m
+<strong>Durata:</strong> Concentrazione, fino a 1 minuto</p>
+<p>L’incantatore deve incidere il glifo su una tavoletta di legno e lanciarla ai piedi del nemico per intimorirlo. Tutte le creature entro 6m dal punto di origine dell’incantesimo devono superare un tiro salvezza su Saggezza o essere spaventati. Ogni creatura che inizia il suo turno all’interno dell’area o ci entra per la prima volta nel turno seguente deve effettuare un tiro salvezza su Saggezza o subire 3d6 danni psichici</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-22">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-22" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Óttastafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-22">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-22" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Óttastafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="skuggsjá---lo-specchio">Skuggsjá - lo specchio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#skuggsjá---lo-specchio" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 4º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su tavoletta pelle conciata, sangue di amanti e fonte cristallina)
+<strong>Gittata:</strong> Contatto
+**Durata:**1 turno</p>
+<p>Guardando il centro del glifo consente all’incantatore di vedere qualsiasi parte del mondo si desideri, vedendone il passato, presente o futuro.
+Nel caso si stia divinando il futuro la visione non sarà mai chiara ma soggetta a interpretazione, sarà a discrezione del DM che informazioni fornire e in che modo.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-23">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-23" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Skuggsjá</p>
+<h4 id="effetto-permanete-del-tatuaggio-23">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-23" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Skuggsjá si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="stafur-gegen-galdri---contro-gli-incantesimi">Stafur Gegen Galdri - contro gli incantesimi<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#stafur-gegen-galdri---contro-gli-incantesimi" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 7º livello</em>
+<strong>Tempo di lancio:</strong> 1 minuto
+<strong>Componenti:</strong> V,S
+<strong>Gittata:</strong> 1.5m
+<strong>Durata:</strong> 8 ore</p>
+<p>L’incantatore traccia 4 glifi entro il raggio dell’incantesimo e la loro magia protegge l’area selezionata. Ogni creatura oltre l’incantatore entro 9m dai glifi lancia un incantesimo le rune interferiscono con il lancio, costringendola a effettuare un tiro salvezza sulla sua caratteristica da incantatore, nel caso di fallimento non si avrà alcun effetto.
+Una volta effettuato il tiro salvezza una delle rune scompare</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-24">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-24" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Stafur Gegen Galdri</p>
+<h4 id="effetto-permanete-del-tatuaggio-24">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-24" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Stafur Gegen Galdri si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="svefnᚦorni---spina-del-sonno">Svefnᚦorni - spina del sonno<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#svefnᚦorni---spina-del-sonno" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 5º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> S,M (spina di biancospino)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Permanente</p>
+<p>Occorre pungere il bersaglio con la spina di biancospino, intorno alla ferita comparirà un glifo a forma di spina a indicare il sonno eterno.
+Il bersaglio deve effettuare un tiro salvezza su Costituzione, se lo fallisce cade addormentato per il tempo dell’incantesimo, altrimenti per 24h.
+Nel caso il bersaglio subisca danno mentre è addormentato l’effetto termina</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-25">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-25" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Svefnᚦorni</p>
+<h4 id="effetto-permanete-del-tatuaggio-25">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-25" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Svefnᚦorni si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="ᚦiófastafir---difendersi-dai-ladri">ᚦiófastafir - difendersi dai ladri<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ᚦiófastafir---difendersi-dai-ladri" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 2º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> 12h</p>
+<p>L’incatatore traccia questo glifo su qualcosa di sua proprietà, in questo modo per l’incantatore avrà sempre una flebile luminescenza.
+Se una persona rubasse l’oggetto, il glifo si illuminerà scaldandosi, segnalando il furto. Se l’incantatore strofina delle erbe e recita la formula magica, consentirà al glifo di trasferirsi dall’oggetto al ladro, marchiandolo in maniera visibile sulla guancia.
+Ogni persona che vede il glifo lo riconosce come un ladro</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-26">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-26" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di ᚦiófastafir</p>
+<h4 id="effetto-permanete-del-tatuaggio-26">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-26" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>ᚦiófastafir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="thorshamar---martello-di-thor">Thorshamar - martello di Thor<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thorshamar---martello-di-thor" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 6º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su una custodia o un oggetto)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Permanente</p>
+<p>Maledizione che serve per ferire gli occhi a colui che ha rubato all’incantatore.
+L’incantatore deve tracciare i glifi e chi lo ruba deve effettuare un tiro salvezza su Costituzione o diventare gradualmente cieco per la durata dell’incantesimo.
+Se l’oggetto viene restituito o riposto nella custodia originale l’effetto termina</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-27">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-27" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Thorshamar</p>
+<h4 id="effetto-permanete-del-tatuaggio-27">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-27" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Thorshamar si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="vatnahlífir---protezione-dellacqua">Vatnahlífir - protezione dell’acqua<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vatnahlífir---protezione-dellacqua" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 1º livello</em>
+<strong>Tempo di lancio:</strong> 1 reazione
+<strong>Componenti:</strong> V,S,M (glifo tracciato sul braccio)
+<strong>Gittata:</strong> Fino a 3 creature entro 18m che sono sott’acqua
+<strong>Durata:</strong> 1 turno</p>
+<p>Glifo utilizzato per proteggersi dalla morte in acqua. L’incatnatore deve tracciare il glifo nella parte interna del braccio destro o mantenere un talismano in quella posizione.
+Quando l’incantatore si trova in acqua, può bersagliare le creature in gittata spendendo la propria reazione per muoversi istantaneamente di 60m verso la superficie e all’inizio del loro turno muoversi nuovamente di 60m</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-28">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-28" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Vatnahlífir</p>
+<h4 id="effetto-permanete-del-tatuaggio-28">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-28" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Vatnahlífir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="vegvísir---non-smarrire-la-strada">Vegvísir - non smarrire la strada<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vegvísir---non-smarrire-la-strada" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir trucchetto</em>
+<strong>Tempo di lancio:</strong> 1 reazione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su un oggetto personale)
+<strong>Gittata:</strong> Contatto
+<strong>Durata:</strong> Istantanea</p>
+<p>L’incantatore deve portare questo simbolo con se per non perdersi in tempeste o nel cattivo tempo anche se si trova in posti non conosciuti.
+L’incantatore traccia un primo glifo in un posto tranquillo, e un secondo glifo che punterà la direzione del primo con una luce incantata</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-29">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-29" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Vegvísir</p>
+<h4 id="effetto-permanete-del-tatuaggio-29">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-29" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Vegvísir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="veiðistafur---fortuna-nella-pesca">Veiðistafur - fortuna nella pesca<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#veiðistafur---fortuna-nella-pesca" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 8º livello</em>
+<strong>Tempo di lancio:</strong> 1 minuto
+<strong>Componenti:</strong> V,S (glifo tracciato sul corpo dell’incantatore)
+<strong>Gittata:</strong> Canna da pesca toccata
+<strong>Durata:</strong> 8h</p>
+<p>L’incantatore deve portare questo simbolo con se per non perdersi in tempeste o nel cattivo tempo anche se si trova in posti non conosciuti.
+L’incantatore traccia un primo glifo in un posto tranquillo, e un secondo glifo che punterà la direzione del primo con una luce incantata</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-30">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-30" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Veiðistafur</p>
+<h4 id="effetto-permanete-del-tatuaggio-30">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-30" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Veiðistafur si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="veldismagn---amplifica-il-potere">Veldismagn - amplifica il potere<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#veldismagn---amplifica-il-potere" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 9º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su pezzo di legno)
+<strong>Gittata:</strong> Personale
+<strong>Durata:</strong> 1h</p>
+<p>Quando l’incantatore traccia il glifo su un legno con del sangue genera uno degli amuleti più potenti. Indossare la tavoletta sul petto significa che ben poco potrà scalfire il portatore.
+Indossare la tavoletta fa guadagnare 150 punti ferita temporanei.
+I punti feriti guadagnati in questo modo spariscono al temine dell’incantesimo.</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-31">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-31" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Veldismagn</p>
+<h4 id="effetto-permanete-del-tatuaggio-31">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-31" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Veldismagn si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/>
+<h1 id="vitastafir---ricerca-della-conoscenza">Vitastafir - ricerca della conoscenza<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vitastafir---ricerca-della-conoscenza" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><em>Galdrastafir di 7º livello</em>
+<strong>Tempo di lancio:</strong> 1 azione
+<strong>Componenti:</strong> V,S,M (glifo tracciato su un talismano)
+<strong>Gittata:</strong> Personale (9m)
+<strong>Durata:</strong> Concentrazione, fino a 1 minuto</p>
+<p>Quando l’incantatore lancia questo Galdrastafir un’aura arcana si propaga verso di lui. Il prossimo incantesimo di 7 livello o inferiore dentro l’area, non consuma lo slot incantesimo. Una volta utilizzato il privilegio l’incantesimo termina.
+<strong>Ai livelli superiori</strong>: quando viene lanciato questo incantesimo usando uno slot di livello 8 o superiori non viene consumato lo slot di quel livello o inferiore</p>
+<h4 id="effetto-temporaneo-del-tatuaggio-32">Effetto temporaneo del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-temporaneo-del-tatuaggio-32" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Il personaggio beneficia di un singolo utilizzo di Vitastafir</p>
+<h4 id="effetto-permanete-del-tatuaggio-32">Effetto permanete del tatuaggio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effetto-permanete-del-tatuaggio-32" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Vitastafir si aggiunge agli incantesimi conosciuti dal personaggio</p>
+<hr/></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-26" aria-expanded="true"><h3>Tabella dei contenuti</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#að-stilla-alla-reiði---placare-la-rabbia" data-for="að-stilla-alla-reiði---placare-la-rabbia">Að stilla alla reiði - placare la rabbia</a></li><li class="depth-0"><a href="#ægishjálmur---elmo-del-terrore" data-for="ægishjálmur---elmo-del-terrore">Ægishjálmur - elmo del terrore</a></li><li class="depth-0"><a href="#ægisskjoldur---il-grande-scudo-del-terrore" data-for="ægisskjoldur---il-grande-scudo-del-terrore">Ægisskjoldur - il grande scudo del terrore</a></li><li class="depth-0"><a href="#ástarrósin---la-rosa-dellamore" data-for="ástarrósin---la-rosa-dellamore">Ástarrósin - la rosa dell’amore</a></li><li class="depth-0"><a href="#astros---contro-la-stregoneria" data-for="astros---contro-la-stregoneria">Astros - contro la stregoneria</a></li><li class="depth-0"><a href="#augnaᚦurs---occhio-del-gigante" data-for="augnaᚦurs---occhio-del-gigante">Augnaᚦurs - occhio del gigante</a></li><li class="depth-0"><a href="#brýnslustafir---per-una-lama-ben-affilata" data-for="brýnslustafir---per-una-lama-ben-affilata">Brýnslustafir - per una lama ben affilata</a></li><li class="depth-0"><a href="#draugastefna---per-bandire-i-draugar" data-for="draugastefna---per-bandire-i-draugar">Draugastefna - per bandire i Draugar</a></li><li class="depth-0"><a href="#draumstafir---simboli-dei-sogni" data-for="draumstafir---simboli-dei-sogni">Draumstafir - simboli dei sogni</a></li><li class="depth-0"><a href="#fengur---amore-e-fertilità" data-for="fengur---amore-e-fertilità">Fengur - amore e fertilità</a></li><li class="depth-0"><a href="#galdratöluskip---amore-e-fertilità" data-for="galdratöluskip---amore-e-fertilità">Galdratöluskip - amore e fertilità</a></li><li class="depth-0"><a href="#gandreiðarstafur---andare-dove-vuoi" data-for="gandreiðarstafur---andare-dove-vuoi">Gandreiðarstafur - andare dove vuoi</a></li><li class="depth-0"><a href="#gapaldur--ginfaxi---vincere-nella-lotta" data-for="gapaldur--ginfaxi---vincere-nella-lotta">Gapaldur &amp; Ginfaxi - vincere nella lotta</a></li><li class="depth-0"><a href="#hríðarbylurstafur---chiamare-la-tempesta" data-for="hríðarbylurstafur---chiamare-la-tempesta">Hríðarbylurstafur - chiamare la tempesta</a></li><li class="depth-0"><a href="#hulinshjálmur---elmo-dellinvisibilità" data-for="hulinshjálmur---elmo-dellinvisibilità">Hulinshjálmur - elmo dell’invisibilità</a></li><li class="depth-0"><a href="#kaupaloki---sigillo-del-patto" data-for="kaupaloki---sigillo-del-patto">Kaupaloki - sigillo del patto</a></li><li class="depth-0"><a href="#lásabrjótur---aprire-tutte-le-porte" data-for="lásabrjótur---aprire-tutte-le-porte">Lásabrjótur - aprire tutte le porte</a></li><li class="depth-0"><a href="#líffstafur---simbolo-della-vita" data-for="líffstafur---simbolo-della-vita">Líffstafur - simbolo della vita</a></li><li class="depth-0"><a href="#lukkustafir---simbolo-porta-fortuna" data-for="lukkustafir---simbolo-porta-fortuna">Lukkustafir - simbolo porta fortuna</a></li><li class="depth-0"><a href="#missinningarstafur---illusione-di-odino" data-for="missinningarstafur---illusione-di-odino">Missinningarstafur - illusione di Odino</a></li><li class="depth-0"><a href="#mót-stefnivargi---contro-i-lupi-e-animali-selvatici" data-for="mót-stefnivargi---contro-i-lupi-e-animali-selvatici">Mót Stefnivargi - contro i lupi e animali selvatici</a></li><li class="depth-0"><a href="#myrkurstafur---contro-la-paura-del-buio" data-for="myrkurstafur---contro-la-paura-del-buio">Myrkurstafur - contro la paura del buio</a></li><li class="depth-0"><a href="#óttastafur---incutere-paura-ai-nemici" data-for="óttastafur---incutere-paura-ai-nemici">Óttastafur - incutere paura ai nemici</a></li><li class="depth-0"><a href="#skuggsjá---lo-specchio" data-for="skuggsjá---lo-specchio">Skuggsjá - lo specchio</a></li><li class="depth-0"><a href="#stafur-gegen-galdri---contro-gli-incantesimi" data-for="stafur-gegen-galdri---contro-gli-incantesimi">Stafur Gegen Galdri - contro gli incantesimi</a></li><li class="depth-0"><a href="#svefnᚦorni---spina-del-sonno" data-for="svefnᚦorni---spina-del-sonno">Svefnᚦorni - spina del sonno</a></li><li class="depth-0"><a href="#ᚦiófastafir---difendersi-dai-ladri" data-for="ᚦiófastafir---difendersi-dai-ladri">ᚦiófastafir - difendersi dai ladri</a></li><li class="depth-0"><a href="#thorshamar---martello-di-thor" data-for="thorshamar---martello-di-thor">Thorshamar - martello di Thor</a></li><li class="depth-0"><a href="#vatnahlífir---protezione-dellacqua" data-for="vatnahlífir---protezione-dellacqua">Vatnahlífir - protezione dell’acqua</a></li><li class="depth-0"><a href="#vegvísir---non-smarrire-la-strada" data-for="vegvísir---non-smarrire-la-strada">Vegvísir - non smarrire la strada</a></li><li class="depth-0"><a href="#veiðistafur---fortuna-nella-pesca" data-for="veiðistafur---fortuna-nella-pesca">Veiðistafur - fortuna nella pesca</a></li><li class="depth-0"><a href="#veldismagn---amplifica-il-potere" data-for="veldismagn---amplifica-il-potere">Veldismagn - amplifica il potere</a></li><li class="depth-0"><a href="#vitastafir---ricerca-della-conoscenza" data-for="vitastafir---ricerca-della-conoscenza">Vitastafir - ricerca della conoscenza</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v4.5.1</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../postscript.js" type="module"></script></html>

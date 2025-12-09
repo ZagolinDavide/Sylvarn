@@ -1,6 +1,10 @@
 > Tratto dal manuale [[🪓 Norse Grimoire|Norse Grimoire]]
 
+> _Nessun uomo dovrebbe incidere rune, se non le sa padroneggiare a dovere. Molti hanno smarrito le loro fortune a causa di queste lettere nere._ 
+> **Egil Skallgrimsson**
+
 Sarà possibile per i PC tatuarsi una runa o un galdrasatsfur, per legarlo a un momento particolare della sua vita o del suo sviluppo, oppure tracciare una pittura rituale o incidere un talismano per richiedere la protezione delle divinità.
+
 ### Armonia
 I glifi tracciati con una ritualità hanno sempre una grande importanza e un significato profondo per chi li porta. Non esiste un limite a quanti glifi un personaggio possa portare, ma il loro potere é troppo grande per i mortali, per questo motivo per poter trarre beneficio dal loro potere è fondamentale entrare e mantenere con loro l'armonia.
 Una volta ogni riposo lungo il personaggio può decidere con quali tatuaggi essere in armonia, fino a un massimo di 3 contemporaneamente. Il cambio di armonia richiede che il personaggi impieghi il tempo a sua disposizione nel riposo lungo per ripercorrere con la mente il momento dell'incisione e della sua connessione con gli Dei per ricevere il potere.
