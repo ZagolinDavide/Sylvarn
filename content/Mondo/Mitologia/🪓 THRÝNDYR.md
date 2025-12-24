@@ -1,13 +1,13 @@
 _La radice infinita_
 > _«Io sono ciò che tiene insieme ciò che deve rimanere, ciò che non può cadere.»_
 
-
+![Thrýndyr](/Images/Thrýndyr.png)
 
 ---
 
 Tipo: Divinità
 Domini: Struttura, Vincolo, sostegno
-Allineamento: Neutrale
+Allineamento: Legale buono
 Simboli: Radice intrecciata
 Icone: 
 Culto: Limitato

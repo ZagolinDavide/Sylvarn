@@ -1,7 +1,7 @@
 _Il divoratore delle radici_
 > _«Quando le bestie scendono dalle profondità e la terra trema, il suo nome viene pronunciato solo dai folli o dai morenti.»_
 
-![Yndrav](/Images/Yndrav.png)
+![Thrýndyr](/Images/Yndrav.png)
 
 ---
 
