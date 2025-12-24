@@ -1,5 +1,6 @@
 
-A breve una spiegazione di cosa sono
+> Tratto dal manuale [[🪓 Norse Grimoire|Norse Grimoire]]
+
 
 
 
