@@ -82,7 +82,7 @@ Questo comporta che colui che esegue il tatuaggio ha una sua importanza, farse t
 
 ---
 # Pitture rituali
-La pittura si discosta leggermente dal tatuaggio, sempre in momenti e cerimonie solonne é possibile disegnare un simbolo sul proprio corpo con sangue, cenere o colore rappresentando una dedizione meno permanente, infatti i suoi effetti dureranno fino al prossimo riposo breve.
+La pittura si discosta leggermente dal tatuaggio, sempre in momenti e cerimonie solenne é possibile disegnare un simbolo sul proprio corpo con sangue, cenere o colore rappresentando una dedizione meno permanente, infatti i suoi effetti dureranno fino al prossimo riposo breve.
 Una pittura dona al personaggio dona al personaggio il potere permanente di un simbolo ma solo per un periodo di tempo molto ridotto e richiede armonia con esso.
 Farsi dipingere un simbolo è un'azione che deve essere effettuata in un contesto rituale e può essere svolto come parte di un riposo breve.
 

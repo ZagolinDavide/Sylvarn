@@ -30,6 +30,7 @@ const config: QuartzConfig = {
       "PCs",
       "Images",
       "External",
+      "Mondo/Bestiario"
     ],
     defaultDateType: "modified",
     theme: {
