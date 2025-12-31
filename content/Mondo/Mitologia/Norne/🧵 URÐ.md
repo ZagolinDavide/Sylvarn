@@ -17,7 +17,7 @@ Culto: Nessuno, venerazione indiretta tramite rituali legati alla memoria e alla
 
 ## 🧬 Natura e Origine
 
-Urd è colei che registra tutto ciò che accade nel piano di Sylvarn. Non crea il destino, ma **custodisce il passato**, affinché il filo delle azioni rimanga visibile alle altre Norne e agli esseri che cercano di leggere la trama della realtà.
+Urð è colei che registra tutto ciò che accade nel piano di Sylvarn. Non crea il destino, ma **custodisce il passato**, affinché il filo delle azioni rimanga visibile alle altre Norne e agli esseri che cercano di leggere la trama della realtà.
 
 ---
 

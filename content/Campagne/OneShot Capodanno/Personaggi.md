@@ -15,7 +15,7 @@ NPC Generici
 - [[Personaggi#**Svala Runafonda**|Svala Runafonda]]
 - [[Personaggi#**Vargun Skar**|Vargun Skar]]
 - [[Personaggi#**Hrósa Ferromorso**|Hrósa Ferromorso]]
-- - [[Personaggi#**Kveld Arngrím**|Kveld Arngrím]]
+- [[Personaggi#**Kveld Arngrím**|Kveld Arngrím]]
 - [[Personaggi#**Ísveig Nebbiapelle**|Ísveig Nebbiapelle]]
 - [[Personaggi#**Oldr il Muto**|Oldr il Muto]]
 - [[Personaggi#**Brynja Figlia-del-Mare**|Brynja Figlia-del-Mare]]
