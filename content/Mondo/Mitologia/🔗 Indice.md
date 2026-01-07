@@ -1,4 +1,36 @@
+Questa sezione della guida comprende le varie entità mitologiche e magiche che popolano il mondo. 
+Possiamo suddividerle in queste categorie
+- [[Mondo/Mitologia/🔗 Indice#Divinità|Divinità]]
+- [[Mondo/Mitologia/🔗 Indice#Entità cosmiche|Entità cosmiche]]
+- [[Mondo/Mitologia/🔗 Indice#Entità minori|Entità minori]]
 
+
+--- 
+### Divinità
+Queste creature sono le divinità che popolano il mondo, amate e temute dai mortali che li venerano o cercano di appropriarsi dei loro poteri.
+Le divinità sono:
+- [[🪓 HÁRVEK|HÁRVEK]]
+- [[🪓 LÚMIRA|LÚMIRA]]
+- [[🪓 RÚNAVÉ|RÚNAVÉ]]
+- [[🪓 SÆLTHYR|SÆLTHYR]]
+- [[🪓 SKÝRHEL|SKÝRHEL]]
+- [[🪓 THRÝNDYR|THRÝNDYR]]
+- [[🪓 VALTYRA|VALTYRA]]
+- [[🪓 VÁRGRYN|VÁRGRYN]]
+- [[🪓 YNDRAV|YNDRAV]]
+
+
+
+### Entità cosmiche
+Sono entità superiori, si occupano del destino: le Norne.
+Sono 3 e si occupano del passato, presente e futuro:
+- [[🧵 URÐ|URÐ]]
+- [[🧵 VERÐANDI|VERÐANDI]]
+- [[🧵 SKULD|SKULD]]
+
+
+
+### Entità minori
 
 
 

@@ -15,13 +15,13 @@ Culto: Proibito
 ---
 
 ## 🧬 Natura e Origine
-Divinità che si dice nata dall’odio e dalla paura dei mortali, Yndrav trae forza dal desiderio di distruzione incontrollata.
+Divinità che si dice nata dall'odio e dalla paura dei mortali, Yndrav trae forza dal desiderio di distruzione incontrollata.
 
 Le saghe narrano che ogni volta che un essere vivente desidera la rovina altrui, la sua influenza si rafforzi. Per questo è considerato il **nemico ultimo del mondo**, colui che prospera nel caos e nella fine.
 
 La sua venerazione è vista come eresia assoluta: chiunque venga scoperto a seguirne i dettami viene eliminato senza processo.
 
-> Alcuni skald sostengono che Yndrav non sia nato dall’odio, ma che l’odio stesso sia il modo in cui i mortali percepiscono la sua voce.
+> Alcuni skald sostengono che Yndrav non sia nato dall'odio, ma che l’odio stesso sia il modo in cui i mortali percepiscono la sua voce.
 
 ---
 
@@ -38,7 +38,7 @@ Non ha una forma definita, nelle sue manifestazioni appare come un'ombra antropo
 ---
 
 ## 🗝️ Simboli e Iconografia
-Il simbolo principale dei sui adepti é una radice a spirale, asimmetrica e mai chiusa, quasi come fosse spezzata.
+Il simbolo principale dei sui adepti è una radice a spirale, asimmetrica e mai chiusa, quasi come fosse spezzata.
 Interpretazione simbolica:
 - spirale: ciclicità, inevitabilità
 - incompleta: verità spezzata, fine non conclusa
@@ -61,16 +61,16 @@ In ogni versione, l’attacco alle radici segna l’inizio dei **Cicli di Divora
 ---
 
 ## 🩸 Culto e Percezione
-Yndrav non ha templi in quanto il suo culto é proibito ovunque in tutto il mondo e pronunciare il suo nome viene considerato un atto sacrilego, onorare o addirittura pronunciare il suo nome si dice che acceleri l'arrivo del _**Ragnarǫk**_
+Yndrav non ha templi in quanto il suo culto è proibito ovunque in tutto il mondo e pronunciare il suo nome viene considerato un atto sacrilego, onorare o addirittura pronunciare il suo nome si dice che acceleri l'arrivo del _**Ragnarǫk**_
 
 <!-- secret:start -->
 
 ---
 
 ## 🔥 La Verità Nascosta
-Yndrav non é una delle divinità, ma la solo e unica coscienza del piano, tutte le altre manifestazioni divine non sono altro che delle creazione dei mortali assecondate dalla presenza di [[🌳 Yggdrasill|Yggdrasill]] che desidera soggiogare tutte le creature di questo piano di esistenza per trasformarle in nutrimento per la sua crescita.
+Yndrav non è una delle divinità, ma la solo e unica coscienza del piano, tutte le altre manifestazioni divine non sono altro che delle creazione dei mortali assecondate dalla presenza di [[🌳 Yggdrasill|Yggdrasill]] che desidera soggiogare tutte le creature di questo piano di esistenza per trasformarle in nutrimento per la sua crescita.
 
-Nonostante il suo culto sia proibito, qualcuno che lo venera o a cui viene rivelata parte della verità esiste, in quanto Yndrav stesso prova a utilizzare le tecniche di [[🌳 Yggdrasill]] a suo vantaggio: contatta dei mortali per aiutarlo nella sua guerra.
+Nonostante il suo culto sia proibito, qualcuno che lo venera o a cui viene rivelata parte della verità esiste, in quanto Yndrav stesso prova a utilizzare le tecniche di [[🌳 Yggdrasill|Yggdrasill]] a suo vantaggio: contatta dei mortali per aiutarlo nella sua guerra.
 Chiunque ammetta di essere un seguace del culto di Yndrav viene giustiziato sul posto, ma alcuni decidono di portare avanti la loro fede e professarla nonostante il pericolo che questo comporti.
 
 ### 👁️ Segni della sua influenza (perfetti per gioco)

@@ -9,7 +9,7 @@ Tipo: Entità cosmica
 Ruolo: Tessitrice del futuro  
 Dominio: Possibilità, avvenire, conseguenze ancora ignote  
 Allineamento percepito: Neutrale  
-Simboli: Filo sospeso che si perde nell’oscurità  
+Simboli: Filo sospeso che si perde nell'oscurità  
 Icone:  
 Culto: Nessuno, venerazione tramite oracoli e divinazione
 
